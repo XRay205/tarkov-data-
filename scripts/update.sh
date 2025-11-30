@@ -1,6 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
+mkdir -p .local
 LOCKFILE=.local/update.lock
 
 if [[ -f "${LOCKFILE}" ]] && kill -0 "$(cat "${LOCKFILE}" || true)" 2>/dev/null; then
@@ -37,7 +38,13 @@ DOCKER_TOKEN=$(echo ${SECRETS} | jq -r '.docker_token')
 
 echo ${DOCKER_TOKEN} | docker login ghcr.io -u ${DOCKER_LOGIN} --password-stdin
 docker pull ghcr.io/carlsmei/tarkovdata-deployer:latest
-docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest -e ${EMAIL} -p ${PASSWORD} -o data
+docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest -e ${EMAIL} -p ${PASSWORD} -o data -c data/.cache
+
+KEY_FILE=metadata_key.txt
+KEY=$(cat ${KEY_FILE})
+
+# Decrypt metadata file
+docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest dm -i data/.cache/global-metadata.dat -e data/global-metadata.decrypted.dat -k ${KEY}
 
 git add -A
 MESSAGE=$(git_commit_message)
