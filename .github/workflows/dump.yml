@@ -1,0 +1,44 @@
+name: Dump GameAssembly
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: Cache IL2CPP Dumper
+        id: il2cppdumper
+        uses: actions/cache@v4
+        with:
+          path: /tmp/il2cppdumper
+          key: ${{ runner.os }}-il2cppdumper
+      - if: steps.il2cppdumper.outputs.cache-hit != 'true'
+        name: Download il2cppdumper
+        run: |
+          wget https://github.com/AndnixSH/Il2CppDumper/releases/download/v6.7.46/Il2CppDumper-net8-linux-x64-v6.7.46.zip -O /tmp/il2cppdumper.zip
+          unzip /tmp/il2cppdumper.zip -d "/tmp/il2cppdumper"
+          chmod +x /tmp/il2cppdumper/Il2CppDumper
+          mv /tmp/il2cppdumper/config.json /tmp/il2cppdumper/config.old.json
+          cat /tmp/il2cppdumper/config.old.json | jq '.DummyDllAddToken=false' | jq '.GenerateDummyDll=false' | jq '.GenerateStruct=false' | jq '.RequireAnyKey=false' > /tmp/il2cppdumper/config.json
+          cat /tmp/il2cppdumper/config.json
+      - name: Download files
+        run: bash scripts/download_assembly.sh
+      - run: |
+          mkdir /tmp/dump_data
+          /tmp/il2cppdumper/Il2CppDumper .cache/GameAssembly.dll global-metadata.decrypted.dat /tmp/dump_data
+          mv /tmp/dump_data/dump.cs dump/dump.cs
+      - name: Commit dump
+        run: |
+          git add dump/dump.cs
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "[CI] Dump EFT $(cat game_version.txt)"
+      - run: |
+          git status
+          git log
+      - name: Push changes
+        uses: ad-m/github-push-action@master
