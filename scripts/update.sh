@@ -41,7 +41,7 @@ docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest -
 
 git add -A
 MESSAGE=$(git_commit_message)
-git commit -S -a -m "${MESSAGE}" || true
+git commit -a -m "${MESSAGE}" || true
 git push
 
 # Thanks to xPaw
