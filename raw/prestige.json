@@ -50,8 +50,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "675d723b026308c637193c83",
+          "id": "6929b1b5c0c8bd67b3f980a7",
           "index": 3,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbd33676fe74b1e80bfd91",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "675d723b026308c637193c83",
+          "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -64,7 +81,7 @@
         },
         {
           "id": "6761ef9d5fdfa30b6d6cfaa5",
-          "index": 4,
+          "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -77,7 +94,7 @@
         },
         {
           "id": "6761ef47e43316fd75ddcbc2",
-          "index": 5,
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -90,7 +107,7 @@
         },
         {
           "id": "6761efd8f619f2e097536690",
-          "index": 6,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -103,7 +120,7 @@
         },
         {
           "id": "6761eff54217b75d0a62d188",
-          "index": 7,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -116,7 +133,7 @@
         },
         {
           "id": "6761efeabbe49f4699336bf5",
-          "index": 8,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -129,7 +146,7 @@
         },
         {
           "id": "675d724875542400d1f90100",
-          "index": 9,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -273,13 +290,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d745aaf070f34a1f403c7",
-          "target": "692c99a5c6ef6de5e80d5f02",
+          "target": "692da038b6840f72e103f1d1",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f02",
+              "_id": "692da038b6840f72e103f1d1",
               "_tpl": "6759bb94b8913ff13e049669",
               "upd": {
                 "SpawnedInSession": true,
@@ -304,13 +321,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6761fca4ca2f4ab1b7898d4b",
-          "target": "692c99a5c6ef6de5e80d5f04",
+          "target": "692da038b6840f72e103f1d3",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f04",
+              "_id": "692da038b6840f72e103f1d3",
               "_tpl": "67614b542eb91250020f2b86",
               "upd": {
                 "SpawnedInSession": true,
@@ -629,8 +646,42 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6761f0951e241947b3439dbd",
+          "id": "6929b4fb5e544e401b87a534",
           "index": 3,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbd33676fe74b1e80bfd91",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6929b20db06cffeb824f0ab3",
+          "index": 4,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbcdc4c964ab83cc0c928e",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6761f0951e241947b3439dbd",
+          "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -643,7 +694,7 @@
         },
         {
           "id": "6761f08995d00b8a8594bfbf",
-          "index": 4,
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -656,7 +707,7 @@
         },
         {
           "id": "6761f0a11961e431bb8b7915",
-          "index": 5,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -669,7 +720,7 @@
         },
         {
           "id": "6761f0e136ae4b74063f0301",
-          "index": 6,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -682,7 +733,7 @@
         },
         {
           "id": "6761f0c3fa7b4e2f2f7a0ba0",
-          "index": 7,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -695,7 +746,7 @@
         },
         {
           "id": "6761f0db439c5eb5cb24748e",
-          "index": 8,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -708,7 +759,7 @@
         },
         {
           "id": "675d71e9bd393adc11c40d14",
-          "index": 9,
+          "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -742,13 +793,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "672df428fbdea27ec6abfd42",
-          "target": "692c99a5c6ef6de5e80d5f06",
+          "target": "692da038b6840f72e103f1d5",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f06",
+              "_id": "692da038b6840f72e103f1d5",
               "_tpl": "674d90b55704568fe60bc8f5",
               "upd": {
                 "SpawnedInSession": true,
@@ -885,13 +936,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d71551692b38879ad814b",
-          "target": "692c99a5c6ef6de5e80d5f08",
+          "target": "692da038b6840f72e103f1d7",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f08",
+              "_id": "692da038b6840f72e103f1d7",
               "_tpl": "6759e07e4ff23436160d7fed",
               "upd": {
                 "SpawnedInSession": true,
@@ -952,13 +1003,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d718662cee92b1f4ddf07",
-          "target": "692c99a5c6ef6de5e80d5f0a",
+          "target": "692da038b6840f72e103f1d9",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f0a",
+              "_id": "692da038b6840f72e103f1d9",
               "_tpl": "67614b6b47c71ea3d40256d7",
               "upd": {
                 "SpawnedInSession": true,
@@ -1242,8 +1293,42 @@
           "conditionType": "Quest"
         },
         {
-          "id": "683da91df9d6f7178e4028bf",
+          "id": "6929b268bcb81877fcb9e418",
           "index": 3,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbd33676fe74b1e80bfd91",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6929b271202f7cdaec16abb5",
+          "index": 4,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68e2ecfeb88d405a420774f5",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "683da91df9d6f7178e4028bf",
+          "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1256,7 +1341,7 @@
         },
         {
           "id": "683da91db5a1742fce1ab919",
-          "index": 4,
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1269,7 +1354,7 @@
         },
         {
           "id": "683da91da64e2f4c163c0a71",
-          "index": 5,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1282,7 +1367,7 @@
         },
         {
           "id": "683da91d3ba6beee15ae15e5",
-          "index": 6,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1295,7 +1380,7 @@
         },
         {
           "id": "683da91d40f707cf9d70acb3",
-          "index": 7,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1308,7 +1393,7 @@
         },
         {
           "id": "683da91de6fa1f57116cd578",
-          "index": 8,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1321,7 +1406,7 @@
         },
         {
           "id": "683da91dcbaecbd131ba3a36",
-          "index": 9,
+          "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1391,13 +1476,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842c945768eced84bd40e85",
-          "target": "692c99a5c6ef6de5e80d5f0c",
+          "target": "692da038b6840f72e103f1db",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f0c",
+              "_id": "692da038b6840f72e103f1db",
               "_tpl": "6841b6b674a3c16f5e03d653",
               "upd": {
                 "SpawnedInSession": true,
@@ -1460,13 +1545,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842c990daa15ec334d9e358",
-          "target": "692c99a5c6ef6de5e80d5f0e",
+          "target": "692da038b6840f72e103f1dd",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f0e",
+              "_id": "692da038b6840f72e103f1dd",
               "_tpl": "6841b179322db20d190b4b99",
               "upd": {
                 "SpawnedInSession": true,
@@ -1491,13 +1576,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842eea21847b5e5c4e41035",
-          "target": "692c99a5c6ef6de5e80d5f10",
+          "target": "692da038b6840f72e103f1df",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f10",
+              "_id": "692da038b6840f72e103f1df",
               "_tpl": "6841b2506c1fcc41ed0db319",
               "upd": {
                 "SpawnedInSession": true,
@@ -1835,8 +1920,59 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6842f121b2b5feddbb55172d",
+          "id": "6929b3380d5149ac49154259",
           "index": 3,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbd33676fe74b1e80bfd91",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6929b7c1965fd38b7eb21ff9",
+          "index": 4,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68e784b7fa3f1fa3770094ba",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6929b32e913ceeecc2e5c2b4",
+          "index": 5,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68e2ecfeb88d405a420774f5",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "6842f121b2b5feddbb55172d",
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1849,7 +1985,7 @@
         },
         {
           "id": "6842f121b524778424c2faab",
-          "index": 4,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1862,7 +1998,7 @@
         },
         {
           "id": "6842f12139a9154e5a9014cd",
-          "index": 5,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1875,7 +2011,7 @@
         },
         {
           "id": "6842f121ddf9d10aa5a1c254",
-          "index": 6,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1888,7 +2024,7 @@
         },
         {
           "id": "6842f121f096afd0c30ac1a1",
-          "index": 7,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1901,7 +2037,7 @@
         },
         {
           "id": "6842f12162f7d28696db3a3e",
-          "index": 8,
+          "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -1914,7 +2050,7 @@
         },
         {
           "id": "6842f121065f0486f7c5bb56",
-          "index": 9,
+          "index": 12,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2040,13 +2176,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842f9930a40cb2b3304c497",
-          "target": "692c99a5c6ef6de5e80d5f12",
+          "target": "692da038b6840f72e103f1e1",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f12",
+              "_id": "692da038b6840f72e103f1e1",
               "_tpl": "6841b3463fcc417de40a6768",
               "upd": {
                 "SpawnedInSession": true,
@@ -2089,13 +2225,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842fa056e463e017d8c76a8",
-          "target": "692c99a5c6ef6de5e80d5f14",
+          "target": "692da038b6840f72e103f1e3",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f14",
+              "_id": "692da038b6840f72e103f1e3",
               "_tpl": "6841b1ff51bf8645f7067bca",
               "upd": {
                 "SpawnedInSession": true,
@@ -2397,8 +2533,59 @@
           "conditionType": "Quest"
         },
         {
+          "id": "6929b4054e5ca32f6cf3d943",
+          "index": 5,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68cbd33676fe74b1e80bfd91",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "692d71e4d369471469312f40",
+          "index": 5,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "6903d779fdfc4078740a4bd0",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "692d71f24b1a9ece85e445df",
+          "index": 5,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68e2ecfeb88d405a420774f5",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
           "id": "68d3ddb4dbfce49d11eb96e6",
-          "index": 3,
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2411,7 +2598,7 @@
         },
         {
           "id": "68d3ddb4288e9ebf7d9fd372",
-          "index": 4,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2424,7 +2611,7 @@
         },
         {
           "id": "68d3ddb4e20dd5fd2bb1a3b1",
-          "index": 5,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2437,7 +2624,7 @@
         },
         {
           "id": "68d3ddb415cc358f89d70794",
-          "index": 6,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2450,7 +2637,7 @@
         },
         {
           "id": "68d3ddb41d2772dc2d632a6e",
-          "index": 7,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2462,21 +2649,8 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3ddb4fa5a084ed04ea23b",
-          "index": 8,
-          "dynamicLocale": false,
-          "visibilityConditions": [],
-          "globalQuestCounterId": "",
-          "parentId": "",
-          "questNoteId": null,
-          "value": 3,
-          "compareMethod": ">=",
-          "areaType": 9,
-          "conditionType": "HideoutArea"
-        },
-        {
           "id": "68d3ddb4c3a680af079c59a9",
-          "index": 9,
+          "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -2492,6 +2666,19 @@
           "onlyFoundInRaid": false,
           "isEncoded": false,
           "conditionType": "HasItem"
+        },
+        {
+          "id": "68d3ddb4fa5a084ed04ea23b",
+          "index": 12,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "value": 3,
+          "compareMethod": ">=",
+          "areaType": 9,
+          "conditionType": "HideoutArea"
         }
       ],
       "rewards": [
@@ -2602,13 +2789,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68d3ddb4e051cfed97f9d50f",
-          "target": "692c99a5c6ef6de5e80d5f16",
+          "target": "692da038b6840f72e103f1e5",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f16",
+              "_id": "692da038b6840f72e103f1e5",
               "_tpl": "6841b3ab322db20d190b4b9b",
               "upd": {
                 "SpawnedInSession": true,
@@ -2651,13 +2838,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f680480b2d5e0ab83a0db1",
-          "target": "692c99a5c6ef6de5e80d5f18",
+          "target": "692da038b6840f72e103f1e7",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f18",
+              "_id": "692da038b6840f72e103f1e7",
               "_tpl": "68f0f8a1375a44d1ed01ea4b",
               "upd": {
                 "SpawnedInSession": true,
@@ -2700,13 +2887,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f67f8025f83eddb22f8161",
-          "target": "692c99a5c6ef6de5e80d5f1a",
+          "target": "692da038b6840f72e103f1e9",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f1a",
+              "_id": "692da038b6840f72e103f1e9",
               "_tpl": "68f244ae22c8979ee308f4d8",
               "upd": {
                 "SpawnedInSession": true,
@@ -2990,8 +3177,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "68d3e6f479d37030452be22d",
+          "id": "6929b471e8244491b70581a3",
           "index": 3,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "questNoteId": null,
+          "target": "68da33fe00868edcb6025ac4",
+          "status": [
+            4
+          ],
+          "availableAfter": 0,
+          "dispersion": 0,
+          "isFinisher": false,
+          "conditionType": "Quest"
+        },
+        {
+          "id": "68d3e6f479d37030452be22d",
+          "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3004,7 +3208,7 @@
         },
         {
           "id": "68d3e6f4c3a6f61ae9dd0346",
-          "index": 4,
+          "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3017,7 +3221,7 @@
         },
         {
           "id": "68d3e6f4dff37d0dff3ee61d",
-          "index": 5,
+          "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3030,7 +3234,7 @@
         },
         {
           "id": "68d3e6f4267a3438dcfa0538",
-          "index": 6,
+          "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3043,7 +3247,7 @@
         },
         {
           "id": "68d3e6f4884fefb665ba6d33",
-          "index": 7,
+          "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3056,7 +3260,7 @@
         },
         {
           "id": "68d3e6f46425c6914bf40041",
-          "index": 8,
+          "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3069,7 +3273,7 @@
         },
         {
           "id": "68d3e6f42716e9ceb94e9b6b",
-          "index": 9,
+          "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
@@ -3159,13 +3363,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f680f3e8fd61ef42b9d85c",
-          "target": "692c99a5c6ef6de5e80d5f1c",
+          "target": "692da038b6840f72e103f1eb",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f1c",
+              "_id": "692da038b6840f72e103f1eb",
               "_tpl": "68f0f8f1a1e799f1c3027c71",
               "upd": {
                 "SpawnedInSession": true,
@@ -3190,13 +3394,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f6815b50c8ab17c541b137",
-          "target": "692c99a5c6ef6de5e80d5f1e",
+          "target": "692da038b6840f72e103f1ed",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f1e",
+              "_id": "692da038b6840f72e103f1ed",
               "_tpl": "68f117b8121d878a2303eee0",
               "upd": {
                 "SpawnedInSession": true,
@@ -3221,13 +3425,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f68132036bd563a5822cbb",
-          "target": "692c99a5c6ef6de5e80d5f20",
+          "target": "692da038b6840f72e103f1ef",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f20",
+              "_id": "692da038b6840f72e103f1ef",
               "_tpl": "68f11224197b61ffe703b16f",
               "upd": {
                 "SpawnedInSession": true,
@@ -3252,13 +3456,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f681107b252b329c7af074",
-          "target": "692c99a5c6ef6de5e80d5f22",
+          "target": "692da038b6840f72e103f1f1",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "692c99a5c6ef6de5e80d5f22",
+              "_id": "692da038b6840f72e103f1f1",
               "_tpl": "68d65766916a108d7a023c98",
               "upd": {
                 "SpawnedInSession": true,
