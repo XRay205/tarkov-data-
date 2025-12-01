@@ -44,7 +44,7 @@ KEY_FILE=.cache/metadata_key.txt
 KEY=$(cat ${KEY_FILE})
 
 # Decrypt metadata file
-docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest dm -i data/.cache/global-metadata.dat -o data/global-metadata.decrypted.dat -k ${KEY}
+# docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest dm -i data/.cache/global-metadata.dat -o data/global-metadata.decrypted.dat -k ${KEY}
 
 git add -A
 MESSAGE=$(git_commit_message)
