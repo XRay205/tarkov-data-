@@ -9292,7 +9292,7 @@
       "DisabledScavExits": "",
       "EnableCoop": true,
       "Enabled": false,
-      "EscapeTimeLimit": 90,
+      "EscapeTimeLimit": 30,
       "EscapeTimeLimitCoop": 30,
       "ForceOfflineRaidInPVE": false,
       "ForceOnlineRaidInPVE": true,
@@ -9342,10 +9342,10 @@
       "NewSpawn": false,
       "NewSpawnForPlayers": false,
       "NonWaveGroupScenario": {
-        "Chance": 50,
-        "Enabled": true,
+        "MinToBeGroup": 2,
         "MaxToBeGroup": 3,
-        "MinToBeGroup": 2
+        "Chance": 50,
+        "Enabled": true
       },
       "OcculsionCullingEnabled": false,
       "OfflineNewSpawn": false,
@@ -9369,289 +9369,27 @@
           "items": [
             "6389c8c5dbfd5e4b95197e6b"
           ],
-          "max": 1,
-          "min": 0
+          "min": 0,
+          "max": 1
         }
       ],
       "waves": [],
-      "AirdropParameters": [
-        {
-          "AirdropPointDeactivateDistance": 50,
-          "MinPlayersCountToSpawnAirdrop": 6,
-          "PlaneAirdropChance": 0.25,
-          "PlaneAirdropCooldownMax": 800,
-          "PlaneAirdropCooldownMin": 700,
-          "PlaneAirdropEnd": 1200,
-          "PlaneAirdropMax": 1,
-          "PlaneAirdropStartMax": 900,
-          "PlaneAirdropStartMin": 300,
-          "UnsuccessfulTryPenalty": 600
-        }
-      ],
-      "BossLocationSpawn": [
-        {
-          "BossChance": 100,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "bossTagillaAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": -1,
-          "TriggerId": "",
-          "TriggerName": ""
-        },
-        {
-          "BossChance": 100,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "bossKillaAgro",
-          "BossName": "bossKillaAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "pve",
-            "regular"
-          ],
-          "Supports": [],
-          "Time": 1100,
-          "TriggerId": "EVENT_FOR_KILLA",
-          "TriggerName": "botEvent"
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 450,
-          "TriggerId": "AGRO_HELPERS_EVENT",
-          "TriggerName": "botEvent"
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 495,
-          "TriggerId": "AGRO_HELPERS_EVENT",
-          "TriggerName": "botEvent"
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 550,
-          "TriggerId": "AGRO_HELPERS_EVENT",
-          "TriggerName": "botEvent"
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": -1,
-          "TriggerId": "",
-          "TriggerName": ""
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": -1,
-          "TriggerId": "",
-          "TriggerName": ""
-        },
-        {
-          "BossChance": 30,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 30,
-          "TriggerId": "",
-          "TriggerName": ""
-        },
-        {
-          "BossChance": 30,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "0",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 10,
-          "TriggerId": "",
-          "TriggerName": ""
-        },
-        {
-          "BossChance": 50,
-          "BossDifficult": "normal",
-          "BossEscortAmount": "2,3",
-          "BossEscortDifficult": "normal",
-          "BossEscortType": "tagillaHelperAgro",
-          "BossName": "tagillaHelperAgro",
-          "BossPlayer": false,
-          "BossZone": "",
-          "Delay": 0,
-          "DependKarma": false,
-          "DependKarmaPVE": false,
-          "ForceSpawn": false,
-          "IgnoreMaxBots": true,
-          "RandomTimeSpawn": false,
-          "ShowOnTarkovMap": false,
-          "ShowOnTarkovMapPvE": false,
-          "SpawnMode": [
-            "regular",
-            "pve"
-          ],
-          "Supports": [],
-          "Time": 1500,
-          "TriggerId": "MASS_HELPERS_EVENT",
-          "TriggerName": "botEvent"
-        }
-      ],
+      "MinMaxBots": [],
       "BotLocationModifier": {
         "AccuracySpeed": 1,
+        "Scattering": 1,
+        "GainSight": 1,
+        "MarksmanAccuratyCoef": 1,
+        "VisibleDistance": 1,
+        "MagnetPower": 44,
+        "DistToSleep": 300,
+        "DistToActivate": 265,
+        "DistToPersueAxemanCoef": 1.1,
+        "KhorovodChance": 0,
+        "MinExfiltrationTime": 1200,
+        "MaxExfiltrationTime": 1800,
+        "DistToActivatePvE": 265,
+        "DistToSleepPvE": 300,
         "AdditionalHostilitySettings": [
           {
             "BotRole": "pmcBEAR",
@@ -9871,25 +9609,854 @@
             "SavagePlayerBehaviour": "Neutral"
           }
         ],
-        "DistToActivate": 265,
-        "DistToActivatePvE": 265,
-        "DistToPersueAxemanCoef": 1.1,
-        "DistToSleep": 300,
-        "DistToSleepPvE": 300,
         "FogVisibilityDistanceCoef": 1,
         "FogVisibilitySpeedCoef": 1,
-        "GainSight": 1,
-        "KhorovodChance": 0,
-        "MagnetPower": 44,
-        "MarksmanAccuratyCoef": 1,
-        "MaxExfiltrationTime": 1800,
-        "MinExfiltrationTime": 1200,
         "RainVisibilityDistanceCoef": 1,
-        "RainVisibilitySpeedCoef": 1,
-        "Scattering": 1,
-        "VisibleDistance": 1
+        "RainVisibilitySpeedCoef": 1
       },
+      "exits": [
+        {
+          "Name": "labir_exit",
+          "EntryPoints": "Factory",
+          "Chance": 100,
+          "MinTime": 900,
+          "MaxTime": 905,
+          "PlayersCount": 0,
+          "ExfiltrationTime": 5,
+          "PassageRequirement": "Timer",
+          "ExfiltrationType": "SharedTimer",
+          "Id": "",
+          "Count": 0,
+          "RequirementTip": "",
+          "EventAvailable": false,
+          "MinTimePVE": 900,
+          "MaxTimePVE": 905,
+          "ChancePVE": 100,
+          "CountPVE": 0,
+          "ExfiltrationTimePVE": 5,
+          "PlayersCountPVE": 0
+        }
+      ],
       "DisabledForScav": false,
+      "BossLocationSpawn": [
+        {
+          "BossName": "bossTagillaAgro",
+          "BossChance": 100,
+          "TriggerId": "",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": -1,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "bossKillaAgro",
+          "BossChance": 100,
+          "TriggerId": "EVENT_FOR_KILLA",
+          "SpawnMode": [
+            "pve",
+            "regular"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "bossKillaAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 1100,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "botEvent",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "AGRO_HELPERS_EVENT",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 450,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "botEvent",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "AGRO_HELPERS_EVENT",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 495,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "botEvent",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "AGRO_HELPERS_EVENT",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 550,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "botEvent",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": -1,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": -1,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 30,
+          "TriggerId": "",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 30,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 30,
+          "TriggerId": "",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "0",
+          "Time": 10,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        },
+        {
+          "BossName": "tagillaHelperAgro",
+          "BossChance": 50,
+          "TriggerId": "MASS_HELPERS_EVENT",
+          "SpawnMode": [
+            "regular",
+            "pve"
+          ],
+          "BossZone": "",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "tagillaHelperAgro",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "2,3",
+          "Time": 1500,
+          "Supports": [],
+          "RandomTimeSpawn": false,
+          "ForceSpawn": false,
+          "IgnoreMaxBots": true,
+          "TriggerName": "botEvent",
+          "Delay": 0,
+          "DependKarma": false,
+          "DependKarmaPVE": false,
+          "ShowOnTarkovMap": false,
+          "ShowOnTarkovMapPvE": false
+        }
+      ],
+      "SpawnPointParams": [
+        {
+          "Id": "11ef32ab-7715-492c-9d58-f0ce32bba21f",
+          "Position": {
+            "x": 7.54,
+            "y": 0.11,
+            "z": 36.93
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "1df0fad3-e80f-447f-b782-5a3b046fdf9c",
+          "Position": {
+            "x": -23.83,
+            "y": 0.11,
+            "z": 20.08
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "34bfa5b1-709d-4204-97a2-519443ae0faa",
+          "Position": {
+            "x": 15.23,
+            "y": 0.15,
+            "z": 27.16
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "4c33535f-acf3-424c-8c7f-e3efd9a7424d",
+          "Position": {
+            "x": 19,
+            "y": 0.11,
+            "z": 10.91
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "503cf951-8e80-4ca0-aa2d-993f71a6a4a6",
+          "Position": {
+            "x": 23.366436,
+            "y": 0.0740000457,
+            "z": 51.8831444
+          },
+          "Rotation": 2.68148041,
+          "Sides": [
+            "All"
+          ],
+          "Categories": [
+            "Player"
+          ],
+          "Infiltration": "Factory",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 20
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 0
+        },
+        {
+          "Id": "57254982-c470-440d-911a-e8854f42398a",
+          "Position": {
+            "x": 5.97543669,
+            "y": 0.567000031,
+            "z": -33.4708557
+          },
+          "Rotation": 267.106842,
+          "Sides": [
+            "All"
+          ],
+          "Categories": [
+            "Player"
+          ],
+          "Infiltration": "Factory",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 20
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 0
+        },
+        {
+          "Id": "867576c4-1152-48ad-80bf-a802d7318379",
+          "Position": {
+            "x": -50.2755623,
+            "y": 0.594000041,
+            "z": -15.8988571
+          },
+          "Rotation": 82.22065,
+          "Sides": [
+            "All"
+          ],
+          "Categories": [
+            "Player"
+          ],
+          "Infiltration": "Factory",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 20
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 0
+        },
+        {
+          "Id": "9d314492-e3b2-4fc0-868b-737271dc626e",
+          "Position": {
+            "x": 5.92,
+            "y": 0.14,
+            "z": 20.22
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "adee9078-b5a3-4f9e-b384-e984cbea15fc",
+          "Position": {
+            "x": 42.8534355,
+            "y": -0.133999944,
+            "z": 31.4581432
+          },
+          "Rotation": 311.222046,
+          "Sides": [
+            "All"
+          ],
+          "Categories": [
+            "Player"
+          ],
+          "Infiltration": "Factory",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 20
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 0
+        },
+        {
+          "Id": "b776e3ed-a02d-4141-8eba-35d4746547ca",
+          "Position": {
+            "x": -37.4425621,
+            "y": 0.5400001,
+            "z": 73.79514
+          },
+          "Rotation": 177.090744,
+          "Sides": [
+            "All"
+          ],
+          "Categories": [
+            "Player"
+          ],
+          "Infiltration": "Factory",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 20
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 0
+        },
+        {
+          "Id": "b99646de-9ffe-472f-af36-de2e20db2360",
+          "Position": {
+            "x": -9.92,
+            "y": 0.108,
+            "z": 23.92
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 12
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 2
+        },
+        {
+          "Id": "bfa04354-335c-42c7-8ea6-4832126c6779",
+          "Position": {
+            "x": -24.785,
+            "y": 0.129,
+            "z": 32.32
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 3
+        },
+        {
+          "Id": "cba8d318-1e80-444a-bf5e-b4fb0baecdd8",
+          "Position": {
+            "x": -10.91,
+            "y": 0.082,
+            "z": 6.08
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 1
+        },
+        {
+          "Id": "ec23c308-c362-4fdc-8fc7-dfe5808a804a",
+          "Position": {
+            "x": -11.18,
+            "y": 0.095,
+            "z": 35.7
+          },
+          "Rotation": 327.8234,
+          "Sides": [
+            "Savage"
+          ],
+          "Categories": [
+            "Bot",
+            "Boss"
+          ],
+          "Infiltration": "",
+          "DelayToCanSpawnSec": 4,
+          "ColliderParams": {
+            "_parent": "SpawnSphereParams",
+            "_props": {
+              "Center": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "Radius": 7
+            }
+          },
+          "BotZoneName": "",
+          "CorePointId": 3
+        }
+      ],
+      "maxItemCountInLocation": [
+        {
+          "Value": 6,
+          "TemplateId": "634959225289190e5e773b3b"
+        },
+        {
+          "Value": 2,
+          "TemplateId": "679b992329acd1f2f60985a5"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679b9d55708cfcb2060b9ae3"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679b9d4b3374fb14f40efe6d"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679b9d43597ba2ed120c3d44"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679b9cce4e4ed4b3b40ae5c5"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679b9d6390622daf9708da76"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "679bab714e9ca6b3d80586b4"
+        },
+        {
+          "Value": 8,
+          "TemplateId": "5fca138c2a7b221b2852a5c6"
+        },
+        {
+          "Value": 0,
+          "TemplateId": "676bf44c5539167c3603e869"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "5c1d0f4986f7744bb01837fa"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "5c1d0c5f86f7744bb2683cf0"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "5c1d0dc586f7744baf2e7b79"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "5c1d0efb86f7744baf2e7b7b"
+        },
+        {
+          "Value": 1,
+          "TemplateId": "5c1e495a86f7743109743dfb"
+        }
+      ],
+      "AirdropParameters": [
+        {
+          "PlaneAirdropStartMin": 300,
+          "PlaneAirdropStartMax": 900,
+          "PlaneAirdropEnd": 1200,
+          "PlaneAirdropChance": 0.25,
+          "PlaneAirdropMax": 1,
+          "PlaneAirdropCooldownMin": 700,
+          "PlaneAirdropCooldownMax": 800,
+          "AirdropPointDeactivateDistance": 50,
+          "MinPlayersCountToSpawnAirdrop": 6,
+          "UnsuccessfulTryPenalty": 600
+        }
+      ],
+      "transits": [
+        {
+          "id": 15,
+          "active": true,
+          "name": "WOO_TRANSIT_15",
+          "location": "factory4_day",
+          "description": "WOO_TRANSIT_15_DESC",
+          "activateAfterSec": 60,
+          "target": "55f2d3fd4bdc2d5f408b4567",
+          "time": 20,
+          "conditions": "WOO_TRANSIT_15_COND",
+          "events": false
+        },
+        {
+          "id": 16,
+          "active": true,
+          "name": "WOO_TRANSIT_16",
+          "location": "RezervBase",
+          "description": "WOO_TRANSIT_16_DESC",
+          "activateAfterSec": 60,
+          "target": "5704e5fad2720bc05b8b4567",
+          "time": 20,
+          "conditions": "WOO_TRANSIT_16_COND",
+          "events": false
+        },
+        {
+          "id": 17,
+          "active": true,
+          "name": "WOO_TRANSIT_17",
+          "location": "Lighthouse",
+          "description": "WOO_TRANSIT_17_DESC",
+          "activateAfterSec": 60,
+          "target": "5704e4dad2720bb55b8b4567",
+          "time": 20,
+          "conditions": "WOO_TRANSIT_17_COND",
+          "events": false
+        },
+        {
+          "id": 41,
+          "active": true,
+          "name": "WOO_TRANSIT_41",
+          "location": "bigmap",
+          "description": "WOO_TRANSIT_41_DESC",
+          "activateAfterSec": 60,
+          "target": "56f40101d2720b2a4d8b45d6",
+          "time": 20,
+          "conditions": "WOO_TRANSIT_41_COND",
+          "events": false
+        }
+      ],
       "EventTrapsData": {
         "MaxBarbedWires": 20,
         "MaxTrapDoors": 9,
@@ -9977,583 +10544,16 @@
           "Chance": 0
         }
       },
-      "MinMaxBots": [],
       "NoGroupSpawn": true,
       "OneTimeSpawn": true,
-      "SpawnPointParams": [
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "11ef32ab-7715-492c-9d58-f0ce32bba21f",
-          "Infiltration": "",
-          "Position": {
-            "x": 7.54,
-            "y": 0.11,
-            "z": 36.93
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "1df0fad3-e80f-447f-b782-5a3b046fdf9c",
-          "Infiltration": "",
-          "Position": {
-            "x": -23.83,
-            "y": 0.11,
-            "z": 20.08
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "34bfa5b1-709d-4204-97a2-519443ae0faa",
-          "Infiltration": "",
-          "Position": {
-            "x": 15.23,
-            "y": 0.15,
-            "z": 27.16
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "4c33535f-acf3-424c-8c7f-e3efd9a7424d",
-          "Infiltration": "",
-          "Position": {
-            "x": 19,
-            "y": 0.11,
-            "z": 10.91
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 20
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "503cf951-8e80-4ca0-aa2d-993f71a6a4a6",
-          "Infiltration": "Factory",
-          "Position": {
-            "x": 23.366436,
-            "y": 0.0740000457,
-            "z": 51.8831444
-          },
-          "Rotation": 2.68148041,
-          "Sides": [
-            "All"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 20
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "57254982-c470-440d-911a-e8854f42398a",
-          "Infiltration": "Factory",
-          "Position": {
-            "x": 5.97543669,
-            "y": 0.567000031,
-            "z": -33.4708557
-          },
-          "Rotation": 267.106842,
-          "Sides": [
-            "All"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 20
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "867576c4-1152-48ad-80bf-a802d7318379",
-          "Infiltration": "Factory",
-          "Position": {
-            "x": -50.2755623,
-            "y": 0.594000041,
-            "z": -15.8988571
-          },
-          "Rotation": 82.22065,
-          "Sides": [
-            "All"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "9d314492-e3b2-4fc0-868b-737271dc626e",
-          "Infiltration": "",
-          "Position": {
-            "x": 5.92,
-            "y": 0.14,
-            "z": 20.22
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 20
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "adee9078-b5a3-4f9e-b384-e984cbea15fc",
-          "Infiltration": "Factory",
-          "Position": {
-            "x": 42.8534355,
-            "y": -0.133999944,
-            "z": 31.4581432
-          },
-          "Rotation": 311.222046,
-          "Sides": [
-            "All"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Player"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 20
-            }
-          },
-          "CorePointId": 0,
-          "DelayToCanSpawnSec": 4,
-          "Id": "b776e3ed-a02d-4141-8eba-35d4746547ca",
-          "Infiltration": "Factory",
-          "Position": {
-            "x": -37.4425621,
-            "y": 0.5400001,
-            "z": 73.79514
-          },
-          "Rotation": 177.090744,
-          "Sides": [
-            "All"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 12
-            }
-          },
-          "CorePointId": 2,
-          "DelayToCanSpawnSec": 4,
-          "Id": "b99646de-9ffe-472f-af36-de2e20db2360",
-          "Infiltration": "",
-          "Position": {
-            "x": -9.92,
-            "y": 0.108,
-            "z": 23.92
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 3,
-          "DelayToCanSpawnSec": 4,
-          "Id": "bfa04354-335c-42c7-8ea6-4832126c6779",
-          "Infiltration": "",
-          "Position": {
-            "x": -24.785,
-            "y": 0.129,
-            "z": 32.32
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 1,
-          "DelayToCanSpawnSec": 4,
-          "Id": "cba8d318-1e80-444a-bf5e-b4fb0baecdd8",
-          "Infiltration": "",
-          "Position": {
-            "x": -10.91,
-            "y": 0.082,
-            "z": 6.08
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        },
-        {
-          "BotZoneName": "",
-          "Categories": [
-            "Bot",
-            "Boss"
-          ],
-          "ColliderParams": {
-            "_parent": "SpawnSphereParams",
-            "_props": {
-              "Center": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "Radius": 7
-            }
-          },
-          "CorePointId": 3,
-          "DelayToCanSpawnSec": 4,
-          "Id": "ec23c308-c362-4fdc-8fc7-dfe5808a804a",
-          "Infiltration": "",
-          "Position": {
-            "x": -11.18,
-            "y": 0.095,
-            "z": 35.7
-          },
-          "Rotation": 327.8234,
-          "Sides": [
-            "Savage"
-          ]
-        }
-      ],
       "SpawnSafeDistanceMeters": 10,
-      "exits": [
-        {
-          "Chance": 100,
-          "ChancePVE": 100,
-          "Count": 0,
-          "CountPVE": 0,
-          "EntryPoints": "Factory",
-          "EventAvailable": false,
-          "ExfiltrationTime": 5,
-          "ExfiltrationTimePVE": 5,
-          "ExfiltrationType": "SharedTimer",
-          "Id": "",
-          "MaxTime": 905,
-          "MaxTimePVE": 905,
-          "MinTime": 900,
-          "MinTimePVE": 900,
-          "Name": "labir_exit",
-          "PassageRequirement": "Timer",
-          "PlayersCount": 0,
-          "PlayersCountPVE": 0,
-          "RequirementTip": ""
-        }
-      ],
-      "maxItemCountInLocation": [
-        {
-          "TemplateId": "634959225289190e5e773b3b",
-          "Value": 6
-        },
-        {
-          "TemplateId": "679b992329acd1f2f60985a5",
-          "Value": 2
-        },
-        {
-          "TemplateId": "679b9d55708cfcb2060b9ae3",
-          "Value": 1
-        },
-        {
-          "TemplateId": "679b9d4b3374fb14f40efe6d",
-          "Value": 1
-        },
-        {
-          "TemplateId": "679b9d43597ba2ed120c3d44",
-          "Value": 1
-        },
-        {
-          "TemplateId": "679b9cce4e4ed4b3b40ae5c5",
-          "Value": 1
-        },
-        {
-          "TemplateId": "679b9d6390622daf9708da76",
-          "Value": 1
-        },
-        {
-          "TemplateId": "679bab714e9ca6b3d80586b4",
-          "Value": 1
-        },
-        {
-          "TemplateId": "5fca138c2a7b221b2852a5c6",
-          "Value": 8
-        },
-        {
-          "TemplateId": "676bf44c5539167c3603e869",
-          "Value": 0
-        },
-        {
-          "TemplateId": "5c1d0f4986f7744bb01837fa",
-          "Value": 1
-        },
-        {
-          "TemplateId": "5c1d0c5f86f7744bb2683cf0",
-          "Value": 1
-        },
-        {
-          "TemplateId": "5c1d0dc586f7744baf2e7b79",
-          "Value": 1
-        },
-        {
-          "TemplateId": "5c1d0efb86f7744baf2e7b7b",
-          "Value": 1
-        },
-        {
-          "TemplateId": "5c1e495a86f7743109743dfb",
-          "Value": 1
-        }
-      ],
       "secretExits": [
         {
-          "EligibleForPMC": true,
-          "EligibleForScav": true,
+          "Name": "labyrinth_secret_tagilla_key",
           "ExfiltrationTime": 15,
           "Id": "67e183377c6c2011970f3149",
-          "Name": "labyrinth_secret_tagilla_key"
-        }
-      ],
-      "transits": [
-        {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_15_COND",
-          "description": "WOO_TRANSIT_15_DESC",
-          "events": false,
-          "id": 15,
-          "location": "factory4_day",
-          "name": "WOO_TRANSIT_15",
-          "target": "55f2d3fd4bdc2d5f408b4567",
-          "time": 20
-        },
-        {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_16_COND",
-          "description": "WOO_TRANSIT_16_DESC",
-          "events": false,
-          "id": 16,
-          "location": "RezervBase",
-          "name": "WOO_TRANSIT_16",
-          "target": "5704e5fad2720bc05b8b4567",
-          "time": 20
-        },
-        {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_17_COND",
-          "description": "WOO_TRANSIT_17_DESC",
-          "events": false,
-          "id": 17,
-          "location": "Lighthouse",
-          "name": "WOO_TRANSIT_17",
-          "target": "5704e4dad2720bb55b8b4567",
-          "time": 20
-        },
-        {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_41_COND",
-          "description": "WOO_TRANSIT_41_DESC",
-          "events": false,
-          "id": 41,
-          "location": "bigmap",
-          "name": "WOO_TRANSIT_41",
-          "target": "56f40101d2720b2a4d8b45d6",
-          "time": 20
+          "EligibleForScav": true,
+          "EligibleForPMC": true
         }
       ],
       "Id": "Labyrinth",
@@ -76523,10 +76523,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "3",
+          "BossEscortAmount": "0",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "followerBully",
-          "BossName": "bossBully",
+          "BossEscortType": "bossTagilla",
+          "BossName": "bossKilla",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
@@ -99815,52 +99815,52 @@
       ],
       "transits": [
         {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_15_COND",
-          "description": "WOO_TRANSIT_15_DESC",
-          "events": false,
           "id": 15,
-          "location": "factory4_day",
+          "active": true,
           "name": "WOO_TRANSIT_15",
+          "location": "factory4_day",
+          "description": "WOO_TRANSIT_15_DESC",
+          "activateAfterSec": 60,
           "target": "55f2d3fd4bdc2d5f408b4567",
-          "time": 20
+          "time": 20,
+          "conditions": "WOO_TRANSIT_15_COND",
+          "events": false
         },
         {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_16_COND",
-          "description": "WOO_TRANSIT_16_DESC",
-          "events": false,
           "id": 16,
-          "location": "RezervBase",
+          "active": true,
           "name": "WOO_TRANSIT_16",
+          "location": "RezervBase",
+          "description": "WOO_TRANSIT_16_DESC",
+          "activateAfterSec": 60,
           "target": "5704e5fad2720bc05b8b4567",
-          "time": 20
+          "time": 20,
+          "conditions": "WOO_TRANSIT_16_COND",
+          "events": false
         },
         {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_17_COND",
-          "description": "WOO_TRANSIT_17_DESC",
-          "events": false,
           "id": 17,
-          "location": "Lighthouse",
+          "active": true,
           "name": "WOO_TRANSIT_17",
+          "location": "Lighthouse",
+          "description": "WOO_TRANSIT_17_DESC",
+          "activateAfterSec": 60,
           "target": "5704e4dad2720bb55b8b4567",
-          "time": 20
+          "time": 20,
+          "conditions": "WOO_TRANSIT_17_COND",
+          "events": false
         },
         {
-          "activateAfterSec": 60,
-          "active": true,
-          "conditions": "WOO_TRANSIT_41_COND",
-          "description": "WOO_TRANSIT_41_DESC",
-          "events": false,
           "id": 41,
-          "location": "bigmap",
+          "active": true,
           "name": "WOO_TRANSIT_41",
+          "location": "bigmap",
+          "description": "WOO_TRANSIT_41_DESC",
+          "activateAfterSec": 60,
           "target": "56f40101d2720b2a4d8b45d6",
-          "time": 20
+          "time": 20,
+          "conditions": "WOO_TRANSIT_41_COND",
+          "events": false
         }
       ],
       "Id": "Woods",

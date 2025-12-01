@@ -15,7 +15,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764606451,
+    "nextResupply": 1764630098,
     "repair": {
       "availability": true,
       "quality": "1.2",
@@ -534,7 +534,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600850,
+    "nextResupply": 1764629119,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -775,7 +775,7 @@
     "discount_end": 0,
     "buyer_up": true,
     "currency": "RUB",
-    "nextResupply": 1764602789,
+    "nextResupply": 1764630189,
     "repair": {
       "availability": false,
       "quality": "2",
@@ -1067,7 +1067,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764598755,
+    "nextResupply": 1764632572,
     "repair": {
       "availability": true,
       "quality": "1",
@@ -1634,14 +1634,14 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "USD",
-    "nextResupply": 1764607726,
+    "nextResupply": 1764632119,
     "repair": {
       "availability": false,
       "quality": "2",
       "excluded_id_list": [],
       "excluded_category": [],
       "currency": "5696686a4bdc2da3298b456a",
-      "currency_coefficient": 0.00847457627118644
+      "currency_coefficient": 0.008547008547008548
     },
     "insurance": {
       "availability": false,
@@ -2417,7 +2417,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764604705,
+    "nextResupply": 1764633404,
     "repair": {
       "availability": true,
       "quality": "0.7",
@@ -3157,7 +3157,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764603476,
+    "nextResupply": 1764637403,
     "repair": {
       "availability": false,
       "quality": "1",
@@ -3482,7 +3482,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764601159,
+    "nextResupply": 1764631591,
     "repair": {
       "availability": false,
       "quality": "0.7",
@@ -3987,7 +3987,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600715,
+    "nextResupply": 1764629694,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4088,7 +4088,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600654,
+    "nextResupply": 1764629573,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4170,7 +4170,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600655,
+    "nextResupply": 1764629574,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4269,7 +4269,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600714,
+    "nextResupply": 1764629693,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4351,7 +4351,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600714,
+    "nextResupply": 1764629694,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4443,7 +4443,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600715,
+    "nextResupply": 1764629694,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4535,7 +4535,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764605562,
+    "nextResupply": 1764636407,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4762,7 +4762,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600713,
+    "nextResupply": 1764629600,
     "repair": {
       "availability": false,
       "quality": "0",
@@ -4854,7 +4854,7 @@
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1764600716,
+    "nextResupply": 1764629695,
     "repair": {
       "availability": false,
       "quality": "0",
