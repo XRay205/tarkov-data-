@@ -5,12 +5,12 @@
     "type": "ceiling"
   },
   {
-    "id": "68fb36c5f91674307c06674d",
+    "id": "68fb35fb2cff66eb7a008ea8",
     "source": "preorder",
     "type": "dogTag"
   },
   {
-    "id": "68fb35fb2cff66eb7a008ea8",
+    "id": "68fb36c5f91674307c06674d",
     "source": "preorder",
     "type": "dogTag"
   },
@@ -20,17 +20,17 @@
     "type": "floor"
   },
   {
+    "id": "68fb7ec2fb3842532002cba7",
+    "source": "preorder",
+    "type": "mannequinPose"
+  },
+  {
     "id": "68fb7e94d4b0e9617502c1ae",
     "source": "preorder",
     "type": "mannequinPose"
   },
   {
     "id": "68fb7eb310742e456a0fa857",
-    "source": "preorder",
-    "type": "mannequinPose"
-  },
-  {
-    "id": "68fb7ec2fb3842532002cba7",
     "source": "preorder",
     "type": "mannequinPose"
   },
@@ -65,12 +65,12 @@
     "type": "suite"
   },
   {
-    "id": "5e9dccd686f774343b592592",
+    "id": "66043da77502eca33a08cad4",
     "source": "event",
     "type": "suite"
   },
   {
-    "id": "66043da77502eca33a08cad4",
+    "id": "5e9dccd686f774343b592592",
     "source": "event",
     "type": "suite"
   },
