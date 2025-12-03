@@ -36,9 +36,20 @@ PASSWORD=$(echo ${SECRETS} | jq -r '.password')
 DOCKER_LOGIN=$(echo ${SECRETS} | jq -r '.docker_login')
 DOCKER_TOKEN=$(echo ${SECRETS} | jq -r '.docker_token')
 
+PREHOOK_FILE=.local/pre.sh
+POSTHOOK_FILE=.local/post.sh
+
+if [[ -f "${PREHOOK_FILE}" ]]; then
+	bash ${PREHOOK_FILE}
+fi
+
 echo ${DOCKER_TOKEN} | docker login ghcr.io -u ${DOCKER_LOGIN} --password-stdin
 docker pull ghcr.io/carlsmei/tarkovdata-deployer:latest
 docker run -it --rm -v .:/app/data ghcr.io/carlsmei/tarkovdata-deployer:latest -e ${EMAIL} -p ${PASSWORD} -o data -c data/.cache
+
+if [[ -f "${POSTHOOK_FILE}" ]]; then
+	bash ${POSTHOOK_FILE}
+fi
 
 KEY_FILE=.cache/metadata_key.txt
 KEY=$(cat ${KEY_FILE})
