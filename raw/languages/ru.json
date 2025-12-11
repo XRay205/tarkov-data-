@@ -20608,6 +20608,7 @@
   "Production completed: {0}": "Производство завершено: {0}",
   "Production time reduced by {0:0.##%}": "Время производства уменьшено на {0:0.##%}",
   "ProductionSchemeReward/Description": "Вы сможете самостоятельно производить данный предмет",
+  "ProductionSchemeStarting/Description": "Рецепт производства в Убежище",
   "Profile is banned": "Аккаунт заблокирован",
   "ProfileEvent/AssortmentLockRule": "Блокировка <b>{0}</b> у торговца.",
   "ProfileEvent/AssortmentUnlockRule": "Разблокировка <b>{0}</b> у торговца.",
