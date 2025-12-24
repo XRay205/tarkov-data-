@@ -23,12 +23,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "652909ac342bdd14e0bcb1bb",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "652909ac342bdd14e0bcb1bb",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -75,12 +88,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "652909cd3f9e480e9d1a3489",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "652909cd3f9e480e9d1a3489",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -127,12 +153,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "652909ef8cb2a699ccbc2cf0",
             "index": 2,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "652909ef8cb2a699ccbc2cf0",
+            "props": {
+              "index": 2,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -179,12 +218,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290de6e76953256668112c",
             "index": 3,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290de6e76953256668112c",
+            "props": {
+              "index": 3,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -231,12 +283,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290e22f16e69470b5d6145",
             "index": 4,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290e22f16e69470b5d6145",
+            "props": {
+              "index": 4,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -283,12 +348,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290e51fee42b19970ccbfd",
             "index": 5,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290e51fee42b19970ccbfd",
+            "props": {
+              "index": 5,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -335,12 +413,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290e8d6193b1a4e12a7967",
             "index": 6,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290e8d6193b1a4e12a7967",
+            "props": {
+              "index": 6,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -387,12 +478,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290ed47ef294bc6eb7ee85",
             "index": 7,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290ed47ef294bc6eb7ee85",
+            "props": {
+              "index": 7,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -440,12 +544,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290f1579363c7810e7233d",
             "index": 8,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290f1579363c7810e7233d",
+            "props": {
+              "index": 8,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -492,12 +609,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290f3fd7c6005f6d78f453",
             "index": 9,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290f3fd7c6005f6d78f453",
+            "props": {
+              "index": 9,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -544,12 +674,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65290f50897943fb9bf8955d",
             "index": 10,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290f50897943fb9bf8955d",
+            "props": {
+              "index": 10,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -596,12 +739,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "657b1e91958145eb193f9a40",
             "index": 11,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "657b1e91958145eb193f9a40",
+            "props": {
+              "index": 11,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -648,12 +804,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66c34ab2c3eee7ac0c41d160",
             "index": 12,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66c34ab2c3eee7ac0c41d160",
+            "props": {
+              "index": 12,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -702,12 +871,25 @@
         ],
         "fail": [
           {
-            "id": "65290a6ee6ae241fdf7ac29c",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65290a6ee6ae241fdf7ac29c",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -764,12 +946,12 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6765f91e0eb73f80f160c1cd",
-          "target": "694b02f4da58b6944f100457",
+          "target": "694c21205e60368a780b3c67",
           "loyaltyLevel": 4,
           "traderId": "5c0647fdd443bc2504c2d371",
           "items": [
             {
-              "_id": "694b02f4da58b6944f100457",
+              "_id": "694c21205e60368a780b3c67",
               "_tpl": "674fe9a75e51f1c47c04ec23",
               "upd": {
                 "Repairable": {
@@ -779,87 +961,87 @@
               }
             },
             {
-              "_id": "694b02f4da58b6944f100458",
+              "_id": "694c21205e60368a780b3c68",
               "_tpl": "674fe57721a9aa6be6045b96",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_handguard"
             },
             {
-              "_id": "694b02f4da58b6944f100459",
+              "_id": "694c21205e60368a780b3c69",
               "_tpl": "5c1cd46f2e22164bef5cfedb",
-              "parentId": "694b02f4da58b6944f100458",
+              "parentId": "694c21205e60368a780b3c68",
               "slotId": "mod_foregrip"
             },
             {
-              "_id": "694b02f4da58b6944f10045a",
+              "_id": "694c21205e60368a780b3c6a",
               "_tpl": "674fe89a4472d471fb0f07d8",
-              "parentId": "694b02f4da58b6944f100458",
+              "parentId": "694c21205e60368a780b3c68",
               "slotId": "mod_mount"
             },
             {
-              "_id": "694b02f4da58b6944f10045b",
+              "_id": "694c21205e60368a780b3c6b",
               "_tpl": "674fe8dd362ea1f88b0e2792",
-              "parentId": "694b02f4da58b6944f10045a",
+              "parentId": "694c21205e60368a780b3c6a",
               "slotId": "mod_sight_front"
             },
             {
-              "_id": "694b02f4da58b6944f10045c",
+              "_id": "694c21205e60368a780b3c6c",
               "_tpl": "674fe8b9362ea1f88b0e278d",
-              "parentId": "694b02f4da58b6944f10045a",
+              "parentId": "694c21205e60368a780b3c6a",
               "slotId": "mod_mount"
             },
             {
-              "_id": "694b02f4da58b6944f10045d",
+              "_id": "694c21205e60368a780b3c6d",
               "_tpl": "59f9d81586f7744c7506ee62",
-              "parentId": "694b02f4da58b6944f10045c",
+              "parentId": "694c21205e60368a780b3c6c",
               "slotId": "mod_scope"
             },
             {
-              "_id": "694b02f4da58b6944f10045e",
+              "_id": "694c21205e60368a780b3c6e",
               "_tpl": "674fe8cf4472d471fb0f07df",
-              "parentId": "694b02f4da58b6944f10045c",
+              "parentId": "694c21205e60368a780b3c6c",
               "slotId": "mod_sight_rear"
             },
             {
-              "_id": "694b02f4da58b6944f10045f",
+              "_id": "694c21205e60368a780b3c6f",
               "_tpl": "59fb137a86f7740adb646af1",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_muzzle"
             },
             {
-              "_id": "694b02f4da58b6944f100460",
+              "_id": "694c21205e60368a780b3c70",
               "_tpl": "6087e663132d4d12c81fd96b",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_pistol_grip"
             },
             {
-              "_id": "694b02f4da58b6944f100461",
+              "_id": "694c21205e60368a780b3c71",
               "_tpl": "676017fe8cfeeba9f707c8d6",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_reciever"
             },
             {
-              "_id": "694b02f4da58b6944f100462",
+              "_id": "694c21205e60368a780b3c72",
               "_tpl": "5ac78eaf5acfc4001926317a",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_stock"
             },
             {
-              "_id": "694b02f4da58b6944f100463",
+              "_id": "694c21205e60368a780b3c73",
               "_tpl": "59ecc3dd86f7746dc827481c",
-              "parentId": "694b02f4da58b6944f100462",
+              "parentId": "694c21205e60368a780b3c72",
               "slotId": "mod_stock"
             },
             {
-              "_id": "694b02f4da58b6944f100464",
+              "_id": "694c21205e60368a780b3c74",
               "_tpl": "674fe8f6f34d761ab8020cc8",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_magazine"
             },
             {
-              "_id": "694b02f4da58b6944f100465",
+              "_id": "694c21205e60368a780b3c75",
               "_tpl": "6130ca3fd92c473c77020dbd",
-              "parentId": "694b02f4da58b6944f100457",
+              "parentId": "694c21205e60368a780b3c67",
               "slotId": "mod_charge"
             }
           ],
@@ -869,12 +1051,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "670feb56b91cd521b33d16ad",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "670feb56b91cd521b33d16ad",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Elimination",
@@ -946,12 +1141,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141bd40495cdcd5a295617",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141bd40495cdcd5a295617",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 50,
             "type": "Completion",
@@ -1017,12 +1225,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141e43ea19c90e85ad60f5",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141e43ea19c90e85ad60f5",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1069,12 +1290,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "660fe523f4b8adbe11925c5e",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "660fe523f4b8adbe11925c5e",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1000,
             "type": "Completion",
@@ -1144,12 +1378,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651418d2d2b2875692087490",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651418d2d2b2875692087490",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1254,12 +1501,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141a397f14aa0040cf561a",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141a397f14aa0040cf561a",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 30,
             "type": "Completion",
@@ -1350,12 +1610,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513ef97971d04543779d03c",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513ef97971d04543779d03c",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1423,12 +1696,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "655b4995528d47f68c1ffed6",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "655b4995528d47f68c1ffed6",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1496,12 +1782,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6842c24eb6cae20ef7c85566",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6842c24eb6cae20ef7c85566",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -1539,12 +1838,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65140b330329e9a52eb9bfeb",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65140b330329e9a52eb9bfeb",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -1613,12 +1925,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66742cc94c02b62d30e18379",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66742cc94c02b62d30e18379",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -1690,12 +2015,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651414b741f4ad07ba7d55f9",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651414b741f4ad07ba7d55f9",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1742,12 +2080,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "651414eb3ec86f33dd54d978",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651414eb3ec86f33dd54d978",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1794,12 +2145,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "651415067c262d47d685c6d9",
             "index": 2,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651415067c262d47d685c6d9",
+            "props": {
+              "index": 2,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1846,12 +2210,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6514151b2e8590fc2ac1d859",
             "index": 3,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514151b2e8590fc2ac1d859",
+            "props": {
+              "index": 3,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1898,12 +2275,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6514151da13f174e3f52bc6e",
             "index": 4,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514151da13f174e3f52bc6e",
+            "props": {
+              "index": 4,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -1950,12 +2340,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65141520143ef6349ad5f071",
             "index": 5,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141520143ef6349ad5f071",
+            "props": {
+              "index": 5,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2002,12 +2405,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6514156e21e1d85a7d029f8a",
             "index": 6,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514156e21e1d85a7d029f8a",
+            "props": {
+              "index": 6,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2054,12 +2470,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65141570b18e12f60ba2e450",
             "index": 7,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141570b18e12f60ba2e450",
+            "props": {
+              "index": 7,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2107,12 +2536,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65141571dbcb26761524e977",
             "index": 8,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141571dbcb26761524e977",
+            "props": {
+              "index": 8,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2159,12 +2601,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "651415cfe97ba875119ef01c",
             "index": 9,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651415cfe97ba875119ef01c",
+            "props": {
+              "index": 9,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2211,12 +2666,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "651415d13c02ff4aa9e9a426",
             "index": 10,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651415d13c02ff4aa9e9a426",
+            "props": {
+              "index": 10,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2263,12 +2731,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "657b21a3564a9197c2778f5a",
             "index": 11,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "657b21a3564a9197c2778f5a",
+            "props": {
+              "index": 11,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2315,12 +2796,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66c34bbbd5d174a3c9cd1382",
             "index": 12,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66c34bbbd5d174a3c9cd1382",
+            "props": {
+              "index": 12,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2388,12 +2882,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513f0735bafc372682987b2",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513f0735bafc372682987b2",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2461,12 +2968,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65140ba9e91ae7a2bdcaa332",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65140ba9e91ae7a2bdcaa332",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -2568,12 +3088,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "675998e314f914c3859afd4f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "675998e314f914c3859afd4f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Elimination",
@@ -2645,12 +3178,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6527d345af3f7ee9f537a2dc",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6527d345af3f7ee9f537a2dc",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -2718,12 +3264,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141a9264cf3ab72f7e268f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141a9264cf3ab72f7e268f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2799,12 +3358,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651418430ab21e2a907ab76f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651418430ab21e2a907ab76f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 7,
             "type": "Completion",
@@ -2870,12 +3442,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513f1676e95dadb20aa5843",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513f1676e95dadb20aa5843",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2922,12 +3507,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65142bdef6e6b9a6e9081739",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65142bdef6e6b9a6e9081739",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -2974,12 +3572,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "65142bf9d453b894d6dc429a",
             "index": 2,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65142bf9d453b894d6dc429a",
+            "props": {
+              "index": 2,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -3047,12 +3658,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6514172005d663354394968e",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514172005d663354394968e",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -3120,12 +3744,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141df0e69594cf853a40b9",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141df0e69594cf853a40b9",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 300,
             "type": "Completion",
@@ -3173,12 +3810,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651411e599c1dc821414894a",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651411e599c1dc821414894a",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -3258,13 +3908,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "689b659d1f15afb5513258a0",
-          "target": "694b02f4da58b6944f100467",
+          "target": "694c21205e60368a780b3c77",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f4da58b6944f100467",
+              "_id": "694c21205e60368a780b3c77",
               "_tpl": "689b5f0f986634d56b0e099f",
               "upd": {
                 "SpawnedInSession": true,
@@ -3272,18 +3922,32 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         }
       ],
       "conditions": {
         "availableForFinish": [
           {
-            "id": "689df2f3fc51af9072785cf5",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "689df2f3fc51af9072785cf5",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 100000,
             "type": "Elimination",
@@ -3353,12 +4017,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6514124f2898c656ba65b1d6",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514124f2898c656ba65b1d6",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -3426,12 +4103,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66c3290e6ddb3232ac35f475",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66c3290e6ddb3232ac35f475",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -3499,12 +4189,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "67c838e5bd695f000f3c8be8",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "67c838e5bd695f000f3c8be8",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -3539,12 +4242,12 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f68b1b70a1583e2f49f0e8",
-          "target": "694b02f4da58b6944f100469",
+          "target": "694c21205e60368a780b3c79",
           "traderId": 10,
           "loyaltyLevel": 1,
           "items": [
             {
-              "_id": "694b02f4da58b6944f100469",
+              "_id": "694c21205e60368a780b3c79",
               "_tpl": "68f11adfcd0babab2c0fb003",
               "upd": {
                 "SpawnedInSession": true,
@@ -3558,12 +4261,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6842c24eb6cae20ef7c85566",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6842c24eb6cae20ef7c85566",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -3589,12 +4305,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "685d65366ac7bddfebcfbbc5",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "685d65366ac7bddfebcfbbc5",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -3620,12 +4349,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141ecc4f29c8d1bc7d66ad",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141ecc4f29c8d1bc7d66ad",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -3672,12 +4414,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6527d3c461b75610b0857223",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6527d3c461b75610b0857223",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -3745,12 +4500,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651412ef0afef6dad1a21477",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651412ef0afef6dad1a21477",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -3818,12 +4586,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68dfdf6be979061e459f9b34",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68dfdf6be979061e459f9b34",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -3849,12 +4630,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "668bf4fbe40131ddf9bffdc7",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "668bf4fbe40131ddf9bffdc7",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -3926,12 +4720,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651432072a2ef048f4e277fc",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651432072a2ef048f4e277fc",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -3978,12 +4785,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651413de1d1da18970b439e2",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651413de1d1da18970b439e2",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -4051,12 +4871,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6527f2f2c4d6004e4edbba06",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6527f2f2c4d6004e4edbba06",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -4122,12 +4955,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "651417a006964b0216b796f8",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "651417a006964b0216b796f8",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 4,
             "type": "Completion",
@@ -4222,12 +5068,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66c328ce17df4e6ce92d1120",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66c328ce17df4e6ce92d1120",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Discover",
@@ -4306,13 +5165,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6706abdfc64e84d18e53f778",
-          "target": "694b02f4da58b6944f10046b",
+          "target": "694c21205e60368a780b3c7b",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f4da58b6944f10046b",
+              "_id": "694c21205e60368a780b3c7b",
               "_tpl": "6638a5474e92f038531e210e",
               "upd": {
                 "SpawnedInSession": true,
@@ -4320,18 +5179,32 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         }
       ],
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6634c9f2da44501b7a7f7107",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6634c9f2da44501b7a7f7107",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -4403,12 +5276,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "664f1f22aa7c03fbe75abc3c",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "664f1f22aa7c03fbe75abc3c",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -4478,12 +5364,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65140bed0189951cd6816e28",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65140bed0189951cd6816e28",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -4551,12 +5450,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141c118356939b8a5dcb18",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141c118356939b8a5dcb18",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -4668,13 +5580,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6786117a04fff99c721a60f1",
-          "target": "694b02f4da58b6944f10046d",
+          "target": "694c21205e60368a780b3c7d",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f4da58b6944f10046d",
+              "_id": "694c21205e60368a780b3c7d",
               "_tpl": "67614b3ab8c060ebb204b106",
               "upd": {
                 "SpawnedInSession": true,
@@ -4682,18 +5594,32 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         }
       ],
       "conditions": {
         "availableForFinish": [
           {
-            "id": "675998e314f914c3859afd4f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "675998e314f914c3859afd4f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Elimination",
@@ -4765,12 +5691,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "655b4a60b530cde7167d842f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "655b4a60b530cde7167d842f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -4838,12 +5777,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141b74fee1b6288d92068e",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141b74fee1b6288d92068e",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 50,
             "type": "Completion",
@@ -4909,12 +5861,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141c67c298bd8e42c6a145",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141c67c298bd8e42c6a145",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -4974,12 +5939,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65141cdcb9d5ff895410e1e4",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65141cdcb9d5ff895410e1e4",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10,
             "type": "Completion",
@@ -5008,12 +5986,25 @@
         ],
         "fail": [
           {
-            "id": "6527d527f15bed8e345640c7",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6527d527f15bed8e345640c7",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -5075,12 +6066,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "675709e6d99b59e15bcd69f5",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "675709e6d99b59e15bcd69f5",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Completion",
@@ -5152,12 +6156,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66e2a74cbe26c77a31e40e21",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66e2a74cbe26c77a31e40e21",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1000,
             "type": "Completion",
@@ -5227,12 +6244,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "675998e314f914c3859afd4f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "675998e314f914c3859afd4f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Elimination",
@@ -5304,12 +6334,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6842c24eb6cae20ef7c85566",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6842c24eb6cae20ef7c85566",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -5335,12 +6378,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "685d4f67604daff072bfe628",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "685d4f67604daff072bfe628",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -5366,12 +6422,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513f2776fcf769579dcb213",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513f2776fcf769579dcb213",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -5451,12 +6520,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "65140aa7877c54335a17c843",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "65140aa7877c54335a17c843",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -5524,12 +6606,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6514103cf0ead1139b0691ba",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514103cf0ead1139b0691ba",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -5597,12 +6692,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6760919bea0b8ae795c9cf71",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6760919bea0b8ae795c9cf71",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1000000,
             "type": "Completion",
@@ -5674,12 +6782,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "67609450d8c6c5112221a710",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "67609450d8c6c5112221a710",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 100000,
             "type": "Completion",
@@ -5751,12 +6872,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f759539ec19f82c841e132",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f759539ec19f82c841e132",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -5797,12 +6931,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6514142b50c1d03f34439529",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6514142b50c1d03f34439529",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 100,
             "type": "Completion",
@@ -5870,12 +7017,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f7595a22aec8d0ef550092",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f7595a22aec8d0ef550092",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -5909,13 +7069,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6707ed1ad2e18b0e6a31ee76",
-          "target": "694b02f4da58b6944f10046f",
+          "target": "694c21205e60368a780b3c7f",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f4da58b6944f10046f",
+              "_id": "694c21205e60368a780b3c7f",
               "_tpl": "6638a5474e92f038531e210e",
               "upd": {
                 "SpawnedInSession": true,
@@ -5923,18 +7083,32 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         }
       ],
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6634caf263da6c6a4304992c",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6634caf263da6c6a4304992c",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -6012,13 +7186,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6706abfa3b44ddfcf586ab19",
-          "target": "694b02f4da58b6944f100471",
+          "target": "694c21205e60368a780b3c81",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f4da58b6944f100471",
+              "_id": "694c21205e60368a780b3c81",
               "_tpl": "6638a5474e92f038531e210e",
               "upd": {
                 "SpawnedInSession": true,
@@ -6026,18 +7200,32 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         }
       ],
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6634c942234642e3f2cb3623",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6634c942234642e3f2cb3623",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -6107,12 +7295,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f7595f42830f32b851d706",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f7595f42830f32b851d706",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -6146,12 +7347,12 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6765f9104163acb89000ab38",
-          "target": "694b02f4da58b6944f100472",
+          "target": "694c21205e60368a780b3c82",
           "loyaltyLevel": 4,
           "traderId": "54cb50c76803fa8b248b4571",
           "items": [
             {
-              "_id": "694b02f4da58b6944f100472",
+              "_id": "694c21205e60368a780b3c82",
               "_tpl": "674fe9a75e51f1c47c04ec23",
               "upd": {
                 "Repairable": {
@@ -6161,81 +7362,81 @@
               }
             },
             {
-              "_id": "694b02f4da58b6944f100473",
+              "_id": "694c21205e60368a780b3c83",
               "_tpl": "674fe57721a9aa6be6045b96",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_handguard"
             },
             {
-              "_id": "694b02f4da58b6944f100474",
+              "_id": "694c21205e60368a780b3c84",
               "_tpl": "5c1bc5612e221602b5429350",
-              "parentId": "694b02f4da58b6944f100473",
+              "parentId": "694c21205e60368a780b3c83",
               "slotId": "mod_foregrip"
             },
             {
-              "_id": "694b02f4da58b6944f100475",
+              "_id": "694c21205e60368a780b3c85",
               "_tpl": "674fe89a4472d471fb0f07d8",
-              "parentId": "694b02f4da58b6944f100473",
+              "parentId": "694c21205e60368a780b3c83",
               "slotId": "mod_mount"
             },
             {
-              "_id": "694b02f4da58b6944f100476",
+              "_id": "694c21205e60368a780b3c86",
               "_tpl": "674fe8dd362ea1f88b0e2792",
-              "parentId": "694b02f4da58b6944f100475",
+              "parentId": "694c21205e60368a780b3c85",
               "slotId": "mod_sight_front"
             },
             {
-              "_id": "694b02f4da58b6944f100477",
+              "_id": "694c21205e60368a780b3c87",
               "_tpl": "674fe8b9362ea1f88b0e278d",
-              "parentId": "694b02f4da58b6944f100475",
+              "parentId": "694c21205e60368a780b3c85",
               "slotId": "mod_mount"
             },
             {
-              "_id": "694b02f4da58b6944f100478",
+              "_id": "694c21205e60368a780b3c88",
               "_tpl": "58491f3324597764bc48fa02",
-              "parentId": "694b02f4da58b6944f100477",
+              "parentId": "694c21205e60368a780b3c87",
               "slotId": "mod_scope"
             },
             {
-              "_id": "694b02f4da58b6944f100479",
+              "_id": "694c21205e60368a780b3c89",
               "_tpl": "674fe8cf4472d471fb0f07df",
-              "parentId": "694b02f4da58b6944f100477",
+              "parentId": "694c21205e60368a780b3c87",
               "slotId": "mod_sight_rear"
             },
             {
-              "_id": "694b02f4da58b6944f10047a",
+              "_id": "694c21205e60368a780b3c8a",
               "_tpl": "59fb137a86f7740adb646af1",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_muzzle"
             },
             {
-              "_id": "694b02f4da58b6944f10047b",
+              "_id": "694c21205e60368a780b3c8b",
               "_tpl": "651580dc71a4f10aec4b6056",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_pistol_grip"
             },
             {
-              "_id": "694b02f4da58b6944f10047c",
+              "_id": "694c21205e60368a780b3c8c",
               "_tpl": "676017fe8cfeeba9f707c8d6",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_reciever"
             },
             {
-              "_id": "694b02f4da58b6944f10047d",
+              "_id": "694c21205e60368a780b3c8d",
               "_tpl": "5ac78eaf5acfc4001926317a",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_stock"
             },
             {
-              "_id": "694b02f4da58b6944f10047e",
+              "_id": "694c21205e60368a780b3c8e",
               "_tpl": "59ecc3dd86f7746dc827481c",
-              "parentId": "694b02f4da58b6944f10047d",
+              "parentId": "694c21205e60368a780b3c8d",
               "slotId": "mod_stock"
             },
             {
-              "_id": "694b02f4da58b6944f10047f",
+              "_id": "694c21205e60368a780b3c8f",
               "_tpl": "674fe8f6f34d761ab8020cc8",
-              "parentId": "694b02f4da58b6944f100472",
+              "parentId": "694c21205e60368a780b3c82",
               "slotId": "mod_magazine"
             }
           ],
@@ -6245,12 +7446,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "670febc8d838bb4a9e934b61",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "670febc8d838bb4a9e934b61",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 10000,
             "type": "Elimination",
@@ -6322,12 +7536,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6842c24eb6cae20ef7c85566",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6842c24eb6cae20ef7c85566",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -6353,12 +7580,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f75964e681e07d875cb679",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f75964e681e07d875cb679",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -6384,12 +7624,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66c329f6f07551de7372f589",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66c329f6f07551de7372f589",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 15,
             "type": "Completion",
@@ -6457,12 +7710,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "67fcdfccb2d35ad46a7a706f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "67fcdfccb2d35ad46a7a706f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Elimination",
@@ -6533,12 +7799,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f759539ec19f82c841e132",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f759539ec19f82c841e132",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -6576,12 +7855,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "664f23ed786c7eba19a3e98f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "664f23ed786c7eba19a3e98f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 5,
             "type": "Completion",
@@ -6653,12 +7945,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "66b49441b14491e93b51599c",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b49441b14491e93b51599c",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6694,12 +7999,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b49a1662133b59e3e9a92c",
             "index": 2,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b49a1662133b59e3e9a92c",
+            "props": {
+              "index": 2,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6734,12 +8052,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b49a3e5665abc69d87b5e6",
             "index": 3,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b49a3e5665abc69d87b5e6",
+            "props": {
+              "index": 3,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6774,12 +8105,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b4993717f669ba37f271a9",
             "index": 4,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b4993717f669ba37f271a9",
+            "props": {
+              "index": 4,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6814,12 +8158,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b4997047402dedee9d1c55",
             "index": 5,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b4997047402dedee9d1c55",
+            "props": {
+              "index": 5,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6854,12 +8211,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b499a1257913079a6e3645",
             "index": 6,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b499a1257913079a6e3645",
+            "props": {
+              "index": 6,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6895,12 +8265,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b499c730acccbfc0436665",
             "index": 7,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b499c730acccbfc0436665",
+            "props": {
+              "index": 7,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6935,12 +8318,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b499d7eb712b1555360355",
             "index": 8,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b499d7eb712b1555360355",
+            "props": {
+              "index": 8,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -6975,12 +8371,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "66b499eac980c9c597d23296",
             "index": 9,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66b499eac980c9c597d23296",
+            "props": {
+              "index": 9,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7017,12 +8426,25 @@
         ],
         "fail": [
           {
-            "id": "66bb14f05e2afbaa6ee7f9ff",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "66bb14f05e2afbaa6ee7f9ff",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Discover",
@@ -7073,12 +8495,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f7595a22aec8d0ef550092",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f7595a22aec8d0ef550092",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -7104,12 +8539,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6512ea68d94f62c7d905a1ba",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512ea68d94f62c7d905a1ba",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7171,12 +8619,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6512eb68f6c95fe8862e384d",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512eb68f6c95fe8862e384d",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7211,12 +8672,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512eb9a12da627da04880b3",
             "index": 1,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512eb9a12da627da04880b3",
+            "props": {
+              "index": 1,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7251,12 +8725,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512efeca198eb75ff9ca1c7",
             "index": 2,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512efeca198eb75ff9ca1c7",
+            "props": {
+              "index": 2,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7291,12 +8778,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f0166a9637a1cb352507",
             "index": 3,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f0166a9637a1cb352507",
+            "props": {
+              "index": 3,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7332,12 +8832,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f09316440cb67572c0fa",
             "index": 4,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f09316440cb67572c0fa",
+            "props": {
+              "index": 4,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7372,12 +8885,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f4a0df345dd5029b586a",
             "index": 5,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f4a0df345dd5029b586a",
+            "props": {
+              "index": 5,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7412,12 +8938,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f4fb1ea20e8cd761de2a",
             "index": 6,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f4fb1ea20e8cd761de2a",
+            "props": {
+              "index": 6,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7452,12 +8991,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f819fddeee167c2518e3",
             "index": 7,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f819fddeee167c2518e3",
+            "props": {
+              "index": 7,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7492,12 +9044,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "6512f83596d92e790ada99b0",
             "index": 8,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f83596d92e790ada99b0",
+            "props": {
+              "index": 8,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7532,12 +9097,25 @@
             "conditionType": "CounterCreator"
           },
           {
-            "id": "657b1feef3231fc23e3ccdf7",
             "index": 9,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "657b1feef3231fc23e3ccdf7",
+            "props": {
+              "index": 9,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7594,12 +9172,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6512fa32c22df3beb4c784ec",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512fa32c22df3beb4c784ec",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7670,12 +9261,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6512f1835ccfd6cf6105c5f9",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6512f1835ccfd6cf6105c5f9",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7743,12 +9347,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513ed34e15d5337298168de",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513ed34e15d5337298168de",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7817,12 +9434,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513ed7795e79afdeaa767c6",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513ed7795e79afdeaa767c6",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7890,12 +9520,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513ee015cbb9120ce42ac02",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513ee015cbb9120ce42ac02",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -7963,12 +9606,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6513eeb54f0adb43ec14e0f9",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6513eeb54f0adb43ec14e0f9",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "value": 1,
             "type": "Completion",
@@ -8036,12 +9692,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f7595f42830f32b851d706",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f7595f42830f32b851d706",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8067,12 +9736,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "68f75964e681e07d875cb679",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "68f75964e681e07d875cb679",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8098,12 +9780,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c782a61bf00df88ad61e",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c782a61bf00df88ad61e",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8129,12 +9824,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c78f8e551a4f23d4b78b",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c78f8e551a4f23d4b78b",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8160,12 +9868,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7a2f1746d56a55a54d4",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7a2f1746d56a55a54d4",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8191,12 +9912,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7a6bae6ae305be53369",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7a6bae6ae305be53369",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8222,12 +9956,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7a9ddfda8515fa3ad1d",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7a9ddfda8515fa3ad1d",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8253,12 +10000,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c821488fe274f5edaa40",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c821488fe274f5edaa40",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8284,12 +10044,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c81c4a26b679af953ddf",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c81c4a26b679af953ddf",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8315,12 +10088,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c814ffedbc31dfdd439f",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c814ffedbc31dfdd439f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8346,12 +10132,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c807555255978d89d02b",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c807555255978d89d02b",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8377,12 +10176,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7e12b5197ac3d1eb988",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7e12b5197ac3d1eb988",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8408,12 +10220,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7d1dfdcd8c79cb9ffe4",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7d1dfdcd8c79cb9ffe4",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8439,12 +10264,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7ce12c8292ff5f9ebf3",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7ce12c8292ff5f9ebf3",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8470,12 +10308,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7cb4beb72973a2624a3",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7cb4beb72973a2624a3",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8501,12 +10352,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7c482e2edf67bd535f3",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7c482e2edf67bd535f3",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8532,12 +10396,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7c08362cfb89b21cb71",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7c08362cfb89b21cb71",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8563,12 +10440,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7bbacc87e3013e31624",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7bbacc87e3013e31624",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8594,12 +10484,25 @@
       "conditions": {
         "availableForFinish": [
           {
-            "id": "6913c7b79bb2ea06d3573234",
             "index": 0,
             "dynamicLocale": false,
             "visibilityConditions": [],
             "globalQuestCounterId": "",
             "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "6913c7b79bb2ea06d3573234",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
             "questNoteId": null,
             "conditionType": "Block"
           }
@@ -8616,6 +10519,123 @@
       "progressBarEnabled": false,
       "side": "All",
       "index": 3349
+    },
+    {
+      "id": "693a83434cb1cf587c0a63f9",
+      "imageUrl": "\/files\/achievement\/693fc3dc5ce546420d04d57b.png",
+      "assetPath": "",
+      "rewards": [
+        {
+          "unknown": false,
+          "gameMode": [],
+          "availableInGameEditions": [
+            "regular",
+            "pve"
+          ],
+          "illustrationConfig": {
+            "image": "",
+            "bigImage": "",
+            "isBigImage": false
+          },
+          "isHidden": false,
+          "isImportant": false,
+          "id": "693a8365659a6c4a29a9cff9",
+          "target": "694c21205e60368a780b3c90",
+          "loyaltyLevel": 1,
+          "traderId": "5ac3b934156ae10c4430e83c",
+          "items": [
+            {
+              "_id": "694c21205e60368a780b3c90",
+              "_tpl": "6937efd50543dcc2560a2c81"
+            }
+          ],
+          "type": "AssortmentUnlock"
+        }
+      ],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "dialogId": null,
+            "entryPoint": null,
+            "fromTraderId": null,
+            "id": "675998e314f914c3859afd4f",
+            "props": {
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "entryPoint": null,
+              "dialogId": null,
+              "fromTraderId": null
+            },
+            "questNoteId": null,
+            "value": 10000,
+            "type": "Elimination",
+            "oneSessionOnly": false,
+            "completeInSeconds": 0,
+            "doNotResetIfCounterCompleted": false,
+            "isResetOnConditionFailed": false,
+            "isNecessary": false,
+            "counter": {
+              "id": "675998e3167b0e8032fcb953",
+              "conditions": [
+                {
+                  "id": "6759992545480dcba01d017f",
+                  "dynamicLocale": false,
+                  "target": "Savage",
+                  "compareMethod": ">=",
+                  "value": 10000,
+                  "weapon": [
+                    "54491bb74bdc2d09088b4567"
+                  ],
+                  "distance": {
+                    "value": 10000,
+                    "compareMethod": ">="
+                  },
+                  "weaponModsInclusive": [],
+                  "weaponModsExclusive": [],
+                  "enemyEquipmentInclusive": [],
+                  "enemyEquipmentExclusive": [],
+                  "weaponCaliber": [],
+                  "savageRole": [
+                    "shooterBTR"
+                  ],
+                  "bodyPart": [
+                    "Head"
+                  ],
+                  "daytime": {
+                    "from": 0,
+                    "to": 0
+                  },
+                  "enemyHealthEffects": [],
+                  "resetOnSessionEnd": false,
+                  "conditionType": "Kills"
+                }
+              ]
+            },
+            "epicGamesId": null,
+            "steamGamesId": null,
+            "conditionType": "CounterCreator"
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": false,
+      "showProgress": false,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": false,
+      "side": "All",
+      "index": 9984
     }
   ]
 }

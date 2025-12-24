@@ -4,24 +4,50 @@
       "id": "672df12f97f0469cea52f55e",
       "conditions": [
         {
-          "id": "672df325cea63f5a813f7227",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "672df325cea63f5a813f7227",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "6761f02c85b4b593b8eb67b3",
           "index": 1,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f02c85b4b593b8eb67b3",
+          "props": {
+            "index": 1,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -33,12 +59,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6761fe66b41bc1e8222b5b6e",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761fe66b41bc1e8222b5b6e",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "6761f28a022f60bb320f3e95",
           "status": [
@@ -50,12 +89,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b1b5c0c8bd67b3f980a7",
           "index": 3,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b1b5c0c8bd67b3f980a7",
+          "props": {
+            "index": 3,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbd33676fe74b1e80bfd91",
           "status": [
@@ -67,12 +119,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "675d723b026308c637193c83",
           "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "675d723b026308c637193c83",
+          "props": {
+            "index": 4,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -80,12 +145,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761ef9d5fdfa30b6d6cfaa5",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761ef9d5fdfa30b6d6cfaa5",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -93,12 +171,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761ef47e43316fd75ddcbc2",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761ef47e43316fd75ddcbc2",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 15,
           "compareMethod": ">=",
@@ -106,12 +197,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761efd8f619f2e097536690",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761efd8f619f2e097536690",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -119,12 +223,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6761eff54217b75d0a62d188",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761eff54217b75d0a62d188",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -132,12 +249,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6761efeabbe49f4699336bf5",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761efeabbe49f4699336bf5",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -145,12 +275,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "675d724875542400d1f90100",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "675d724875542400d1f90100",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -290,13 +433,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d745aaf070f34a1f403c7",
-          "target": "694b02f86bc8c45f08081c74",
+          "target": "694c2123d0944cb94f0b9949",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c74",
+              "_id": "694c2123d0944cb94f0b9949",
               "_tpl": "6759bb94b8913ff13e049669",
               "upd": {
                 "SpawnedInSession": true,
@@ -304,6 +447,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -321,13 +465,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6761fca4ca2f4ab1b7898d4b",
-          "target": "694b02f86bc8c45f08081c76",
+          "target": "694c2123d0944cb94f0b994b",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c76",
+              "_id": "694c2123d0944cb94f0b994b",
               "_tpl": "67614b542eb91250020f2b86",
               "upd": {
                 "SpawnedInSession": true,
@@ -335,6 +479,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -600,24 +745,50 @@
       "id": "672df4281ab8d9c8849a0c88",
       "conditions": [
         {
-          "id": "672df4281e1344e35bcbd670",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "672df4281e1344e35bcbd670",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "675d71ff4f6cbb631b79016a",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "675d71ff4f6cbb631b79016a",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -629,12 +800,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "67620a1f2e64e3f5c982585c",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "67620a1f2e64e3f5c982585c",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "6761ff17cdc36bd66102e9d0",
           "status": [
@@ -646,12 +830,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b4fb5e544e401b87a534",
           "index": 3,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b4fb5e544e401b87a534",
+          "props": {
+            "index": 3,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbd33676fe74b1e80bfd91",
           "status": [
@@ -663,12 +860,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b20db06cffeb824f0ab3",
           "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b20db06cffeb824f0ab3",
+          "props": {
+            "index": 4,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbcdc4c964ab83cc0c928e",
           "status": [
@@ -680,12 +890,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6761f0951e241947b3439dbd",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f0951e241947b3439dbd",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -693,12 +916,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761f08995d00b8a8594bfbf",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f08995d00b8a8594bfbf",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -706,12 +942,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761f0a11961e431bb8b7915",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f0a11961e431bb8b7915",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 15,
           "compareMethod": ">=",
@@ -719,12 +968,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6761f0e136ae4b74063f0301",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f0e136ae4b74063f0301",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -732,12 +994,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6761f0c3fa7b4e2f2f7a0ba0",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f0c3fa7b4e2f2f7a0ba0",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -745,12 +1020,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6761f0db439c5eb5cb24748e",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6761f0db439c5eb5cb24748e",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -758,12 +1046,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "675d71e9bd393adc11c40d14",
           "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "675d71e9bd393adc11c40d14",
+          "props": {
+            "index": 11,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -793,13 +1094,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "672df428fbdea27ec6abfd42",
-          "target": "694b02f86bc8c45f08081c78",
+          "target": "694c2123d0944cb94f0b994d",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c78",
+              "_id": "694c2123d0944cb94f0b994d",
               "_tpl": "674d90b55704568fe60bc8f5",
               "upd": {
                 "SpawnedInSession": true,
@@ -807,6 +1108,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -936,13 +1238,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d71551692b38879ad814b",
-          "target": "694b02f86bc8c45f08081c7a",
+          "target": "694c2123d0944cb94f0b994f",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c7a",
+              "_id": "694c2123d0944cb94f0b994f",
               "_tpl": "6759e07e4ff23436160d7fed",
               "upd": {
                 "SpawnedInSession": true,
@@ -950,6 +1252,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -1003,13 +1306,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "675d718662cee92b1f4ddf07",
-          "target": "694b02f86bc8c45f08081c7c",
+          "target": "694c2123d0944cb94f0b9951",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c7c",
+              "_id": "694c2123d0944cb94f0b9951",
               "_tpl": "67614b6b47c71ea3d40256d7",
               "upd": {
                 "SpawnedInSession": true,
@@ -1017,6 +1320,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -1247,24 +1551,50 @@
       "id": "683da91d6f472cfa738c52f2",
       "conditions": [
         {
-          "id": "683da91dc19b0046298f13ba",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91dc19b0046298f13ba",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "683da91d9f3ab0951363bdea",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91d9f3ab0951363bdea",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -1276,12 +1606,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "683da91de231c42903872790",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91de231c42903872790",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "6848100b00afffa81f09e365",
           "status": [
@@ -1293,12 +1636,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b268bcb81877fcb9e418",
           "index": 3,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b268bcb81877fcb9e418",
+          "props": {
+            "index": 3,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbd33676fe74b1e80bfd91",
           "status": [
@@ -1310,12 +1666,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b271202f7cdaec16abb5",
           "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b271202f7cdaec16abb5",
+          "props": {
+            "index": 4,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68e2ecfeb88d405a420774f5",
           "status": [
@@ -1327,12 +1696,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "683da91df9d6f7178e4028bf",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91df9d6f7178e4028bf",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -1340,12 +1722,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "683da91db5a1742fce1ab919",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91db5a1742fce1ab919",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -1353,12 +1748,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "683da91da64e2f4c163c0a71",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91da64e2f4c163c0a71",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -1366,12 +1774,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "683da91d3ba6beee15ae15e5",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91d3ba6beee15ae15e5",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -1379,12 +1800,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "683da91d40f707cf9d70acb3",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91d40f707cf9d70acb3",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -1392,12 +1826,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "683da91de6fa1f57116cd578",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91de6fa1f57116cd578",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -1405,12 +1852,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "683da91dcbaecbd131ba3a36",
           "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "683da91dcbaecbd131ba3a36",
+          "props": {
+            "index": 11,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -1476,13 +1936,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842c945768eced84bd40e85",
-          "target": "694b02f86bc8c45f08081c7e",
+          "target": "694c2123d0944cb94f0b9953",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c7e",
+              "_id": "694c2123d0944cb94f0b9953",
               "_tpl": "6841b6b674a3c16f5e03d653",
               "upd": {
                 "SpawnedInSession": true,
@@ -1490,6 +1950,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -1545,13 +2006,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842c990daa15ec334d9e358",
-          "target": "694b02f86bc8c45f08081c80",
+          "target": "694c2123d0944cb94f0b9955",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c80",
+              "_id": "694c2123d0944cb94f0b9955",
               "_tpl": "6841b179322db20d190b4b99",
               "upd": {
                 "SpawnedInSession": true,
@@ -1559,6 +2020,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -1576,13 +2038,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842eea21847b5e5c4e41035",
-          "target": "694b02f86bc8c45f08081c82",
+          "target": "694c2123d0944cb94f0b9957",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c82",
+              "_id": "694c2123d0944cb94f0b9957",
               "_tpl": "6841b2506c1fcc41ed0db319",
               "upd": {
                 "SpawnedInSession": true,
@@ -1590,6 +2052,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -1874,24 +2337,50 @@
       "id": "6842f121000d98ce33b9a60f",
       "conditions": [
         {
-          "id": "6842f121cef417ef53cc90a0",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121cef417ef53cc90a0",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "6842f121382cb1ce6d992685",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121382cb1ce6d992685",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -1903,12 +2392,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6842f121c033d3512e2682d2",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121c033d3512e2682d2",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68481881f43abfdda2058369",
           "status": [
@@ -1920,12 +2422,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b3380d5149ac49154259",
           "index": 3,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b3380d5149ac49154259",
+          "props": {
+            "index": 3,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbd33676fe74b1e80bfd91",
           "status": [
@@ -1937,12 +2452,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b7c1965fd38b7eb21ff9",
           "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b7c1965fd38b7eb21ff9",
+          "props": {
+            "index": 4,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68e784b7fa3f1fa3770094ba",
           "status": [
@@ -1954,12 +2482,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b32e913ceeecc2e5c2b4",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b32e913ceeecc2e5c2b4",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68e2ecfeb88d405a420774f5",
           "status": [
@@ -1971,12 +2512,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6842f121b2b5feddbb55172d",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121b2b5feddbb55172d",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -1984,12 +2538,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6842f121b524778424c2faab",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121b524778424c2faab",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -1997,12 +2564,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6842f12139a9154e5a9014cd",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f12139a9154e5a9014cd",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -2010,12 +2590,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "6842f121ddf9d10aa5a1c254",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121ddf9d10aa5a1c254",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -2023,12 +2616,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6842f121f096afd0c30ac1a1",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121f096afd0c30ac1a1",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -2036,12 +2642,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6842f12162f7d28696db3a3e",
           "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f12162f7d28696db3a3e",
+          "props": {
+            "index": 11,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -2049,12 +2668,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "6842f121065f0486f7c5bb56",
           "index": 12,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6842f121065f0486f7c5bb56",
+          "props": {
+            "index": 12,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -2176,13 +2808,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842f9930a40cb2b3304c497",
-          "target": "694b02f86bc8c45f08081c84",
+          "target": "694c2123d0944cb94f0b9959",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c84",
+              "_id": "694c2123d0944cb94f0b9959",
               "_tpl": "6841b3463fcc417de40a6768",
               "upd": {
                 "SpawnedInSession": true,
@@ -2190,6 +2822,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -2225,13 +2858,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "6842fa056e463e017d8c76a8",
-          "target": "694b02f86bc8c45f08081c86",
+          "target": "694c2123d0944cb94f0b995b",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c86",
+              "_id": "694c2123d0944cb94f0b995b",
               "_tpl": "6841b1ff51bf8645f7067bca",
               "upd": {
                 "SpawnedInSession": true,
@@ -2239,6 +2872,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -2487,24 +3121,50 @@
       "id": "68d3ddb4fc101237e601d774",
       "conditions": [
         {
-          "id": "68d3ddb4082777aca7357284",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4082777aca7357284",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "68d3ddb415034199b86b8d68",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb415034199b86b8d68",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -2516,12 +3176,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "68d3ddb4c69f97506c68405f",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4c69f97506c68405f",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68d3eabc22a258476b064851",
           "status": [
@@ -2533,12 +3206,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b4054e5ca32f6cf3d943",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b4054e5ca32f6cf3d943",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68cbd33676fe74b1e80bfd91",
           "status": [
@@ -2550,12 +3236,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "692d71e4d369471469312f40",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "692d71e4d369471469312f40",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "6903d779fdfc4078740a4bd0",
           "status": [
@@ -2567,12 +3266,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "692d71f24b1a9ece85e445df",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "692d71f24b1a9ece85e445df",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68e2ecfeb88d405a420774f5",
           "status": [
@@ -2584,12 +3296,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "68d3ddb4dbfce49d11eb96e6",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4dbfce49d11eb96e6",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -2597,12 +3322,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3ddb4288e9ebf7d9fd372",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4288e9ebf7d9fd372",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -2610,12 +3348,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3ddb4e20dd5fd2bb1a3b1",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4e20dd5fd2bb1a3b1",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -2623,12 +3374,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3ddb415cc358f89d70794",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb415cc358f89d70794",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -2636,12 +3400,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3ddb41d2772dc2d632a6e",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb41d2772dc2d632a6e",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -2649,12 +3426,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3ddb4c3a680af079c59a9",
           "index": 11,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4c3a680af079c59a9",
+          "props": {
+            "index": 11,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -2668,12 +3458,25 @@
           "conditionType": "HasItem"
         },
         {
-          "id": "68d3ddb4fa5a084ed04ea23b",
           "index": 12,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3ddb4fa5a084ed04ea23b",
+          "props": {
+            "index": 12,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -2789,13 +3592,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68d3ddb4e051cfed97f9d50f",
-          "target": "694b02f86bc8c45f08081c88",
+          "target": "694c2123d0944cb94f0b995d",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c88",
+              "_id": "694c2123d0944cb94f0b995d",
               "_tpl": "6841b3ab322db20d190b4b9b",
               "upd": {
                 "SpawnedInSession": true,
@@ -2803,6 +3606,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -2838,13 +3642,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f680480b2d5e0ab83a0db1",
-          "target": "694b02f86bc8c45f08081c8a",
+          "target": "694c2123d0944cb94f0b995f",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c8a",
+              "_id": "694c2123d0944cb94f0b995f",
               "_tpl": "68f0f8a1375a44d1ed01ea4b",
               "upd": {
                 "SpawnedInSession": true,
@@ -2852,6 +3656,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -2887,13 +3692,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f67f8025f83eddb22f8161",
-          "target": "694b02f86bc8c45f08081c8c",
+          "target": "694c2123d0944cb94f0b9961",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c8c",
+              "_id": "694c2123d0944cb94f0b9961",
               "_tpl": "68f244ae22c8979ee308f4d8",
               "upd": {
                 "SpawnedInSession": true,
@@ -2901,6 +3706,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -3131,24 +3937,50 @@
       "id": "68d3e6f46a7ba36646713fa6",
       "conditions": [
         {
-          "id": "68d3e6f49ce46cdad00a8225",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f49ce46cdad00a8225",
+          "props": {
+            "index": 0,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 55,
           "compareMethod": ">=",
           "conditionType": "Level"
         },
         {
-          "id": "68d3e6f40b976d94f72dde5e",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f40b976d94f72dde5e",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "5c51aac186f77432ea65c552",
           "status": [
@@ -3160,12 +3992,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "68d3e6f4853f46f0e4061c4f",
           "index": 2,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f4853f46f0e4061c4f",
+          "props": {
+            "index": 2,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68d3eb2b2712147eab000f21",
           "status": [
@@ -3177,12 +4022,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "6929b471e8244491b70581a3",
           "index": 3,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "6929b471e8244491b70581a3",
+          "props": {
+            "index": 3,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": "68da33fe00868edcb6025ac4",
           "status": [
@@ -3194,12 +4052,25 @@
           "conditionType": "Quest"
         },
         {
-          "id": "68d3e6f479d37030452be22d",
           "index": 4,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f479d37030452be22d",
+          "props": {
+            "index": 4,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -3207,12 +4078,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3e6f4c3a6f61ae9dd0346",
           "index": 5,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f4c3a6f61ae9dd0346",
+          "props": {
+            "index": 5,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -3220,12 +4104,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3e6f4dff37d0dff3ee61d",
           "index": 6,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f4dff37d0dff3ee61d",
+          "props": {
+            "index": 6,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 20,
           "compareMethod": ">=",
@@ -3233,12 +4130,25 @@
           "conditionType": "Skill"
         },
         {
-          "id": "68d3e6f4267a3438dcfa0538",
           "index": 7,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f4267a3438dcfa0538",
+          "props": {
+            "index": 7,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 2,
           "compareMethod": ">=",
@@ -3246,12 +4156,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3e6f4884fefb665ba6d33",
           "index": 8,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f4884fefb665ba6d33",
+          "props": {
+            "index": 8,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -3259,12 +4182,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3e6f46425c6914bf40041",
           "index": 9,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f46425c6914bf40041",
+          "props": {
+            "index": 9,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "value": 3,
           "compareMethod": ">=",
@@ -3272,12 +4208,25 @@
           "conditionType": "HideoutArea"
         },
         {
-          "id": "68d3e6f42716e9ceb94e9b6b",
           "index": 10,
           "dynamicLocale": false,
           "visibilityConditions": [],
           "globalQuestCounterId": "",
           "parentId": "",
+          "dialogId": null,
+          "entryPoint": null,
+          "fromTraderId": null,
+          "id": "68d3e6f42716e9ceb94e9b6b",
+          "props": {
+            "index": 10,
+            "dynamicLocale": false,
+            "visibilityConditions": [],
+            "globalQuestCounterId": "",
+            "parentId": "",
+            "entryPoint": null,
+            "dialogId": null,
+            "fromTraderId": null
+          },
           "questNoteId": null,
           "target": [
             "5449016a4bdc2d6f028b456f"
@@ -3363,13 +4312,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f680f3e8fd61ef42b9d85c",
-          "target": "694b02f86bc8c45f08081c8e",
+          "target": "694c2123d0944cb94f0b9963",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c8e",
+              "_id": "694c2123d0944cb94f0b9963",
               "_tpl": "68f0f8f1a1e799f1c3027c71",
               "upd": {
                 "SpawnedInSession": true,
@@ -3377,6 +4326,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -3394,13 +4344,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f6815b50c8ab17c541b137",
-          "target": "694b02f86bc8c45f08081c90",
+          "target": "694c2123d0944cb94f0b9965",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c90",
+              "_id": "694c2123d0944cb94f0b9965",
               "_tpl": "68f117b8121d878a2303eee0",
               "upd": {
                 "SpawnedInSession": true,
@@ -3408,6 +4358,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -3425,13 +4376,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f68132036bd563a5822cbb",
-          "target": "694b02f86bc8c45f08081c92",
+          "target": "694c2123d0944cb94f0b9967",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c92",
+              "_id": "694c2123d0944cb94f0b9967",
               "_tpl": "68f11224197b61ffe703b16f",
               "upd": {
                 "SpawnedInSession": true,
@@ -3439,6 +4390,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
@@ -3456,13 +4408,13 @@
           "isHidden": false,
           "isImportant": false,
           "id": "68f681107b252b329c7af074",
-          "target": "694b02f86bc8c45f08081c94",
+          "target": "694c2123d0944cb94f0b9969",
           "value": 1,
           "isEncoded": false,
           "findInRaid": true,
           "items": [
             {
-              "_id": "694b02f86bc8c45f08081c94",
+              "_id": "694c2123d0944cb94f0b9969",
               "_tpl": "68d65766916a108d7a023c98",
               "upd": {
                 "SpawnedInSession": true,
@@ -3470,6 +4422,7 @@
               }
             }
           ],
+          "isDeliverByMail": true,
           "type": "Item"
         },
         {
