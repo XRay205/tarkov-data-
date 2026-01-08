@@ -10112,26 +10112,15 @@
       "minSurvivedRaidCount": 2
     },
     "KolotunSettings": {
-      "active": true,
-      "applyFrozenEverySec": 5,
-      "buffStage1": "Buffs_Frozen1",
-      "buffStage2": "Buffs_Frozen2",
-      "damageBodyParts": [
-        "Head",
-        "LeftArm",
-        "RightArm",
-        "LeftLeg",
-        "RightLeg"
-      ],
-      "damageIntervalSec": 40,
-      "damagePerTickMax": 2,
-      "damagePerTickMin": 1,
-      "drunkImmunitySec": 30,
-      "enableDamage": true,
-      "eventStage": 1,
-      "fireDistanceToHeat": 3,
+      "active": false,
+      "enableDamage": false,
       "initialFrozenDelaySec": 60,
-      "minHealthAfterDamage": 1,
+      "applyFrozenEverySec": 5,
+      "fireDistanceToHeat": 3,
+      "drunkImmunitySec": 30,
+      "damageIntervalSec": 40,
+      "damagePerTickMin": 1,
+      "damagePerTickMax": 2,
       "protectiveClothes": [
         "5a43943586f77416ad2f06e2",
         "5a43957686f7742a2c2f11b0",
@@ -10149,6 +10138,17 @@
         "59e7708286f7742cbd762753",
         "69412e1d0045b2176002e4eb"
       ],
+      "eventStage": 1,
+      "damageBodyParts": [
+        "Head",
+        "LeftArm",
+        "RightArm",
+        "LeftLeg",
+        "RightLeg"
+      ],
+      "minHealthAfterDamage": 1,
+      "buffStage1": "Buffs_Frozen1",
+      "buffStage2": "Buffs_Frozen2",
       "soundTicksPerPlay": 2
     },
     "LegsOverdamage": 1,
