@@ -7269,8 +7269,8 @@
       "EvacuateTime": 180,
       "WaitingRoomTime": 45,
       "SeatsRandom": {
-        "x": 3,
-        "y": 5
+        "x": 0,
+        "y": 0
       },
       "FinalCutscenesByQuest": [
         {

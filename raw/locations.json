@@ -83590,10 +83590,10 @@
         {
           "BossChance": 100,
           "BossDifficult": "normal",
-          "BossEscortAmount": "3",
+          "BossEscortAmount": "0",
           "BossEscortDifficult": "normal",
-          "BossEscortType": "followerBully",
-          "BossName": "bossBully",
+          "BossEscortType": "bossTagilla",
+          "BossName": "bossKilla",
           "BossZone": "Zone2ScavPort29",
           "Delay": 40,
           "ForceSpawn": true,
