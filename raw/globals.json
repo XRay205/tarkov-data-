@@ -7267,31 +7267,32 @@
     ],
     "FinalMissionSettings": {
       "EvacuateTime": 180,
-      "WaitingRoomTime": 45,
-      "SeatsRandom": {
-        "x": 0,
-        "y": 0
-      },
       "FinalCutscenesByQuest": [
         {
-          "questId": "67c08f0268e50a07b10d25a6",
-          "finalCutsceneId": "Final_trkv_evac_1"
+          "finalCutsceneId": "Final_trkv_evac_1",
+          "questId": "67c08f0268e50a07b10d25a6"
         },
         {
-          "questId": "67c862bd9f9b7ef9090651d8",
-          "finalCutsceneId": "Final_trkv_evac_2"
+          "finalCutsceneId": "Final_trkv_evac_2",
+          "questId": "67c862bd9f9b7ef9090651d8"
         },
         {
-          "questId": "67bdf8c066ca1d79a202463a",
-          "finalCutsceneId": "Final_trkv_evac_3"
+          "finalCutsceneId": "Final_trkv_evac_3",
+          "questId": "67bdf8c066ca1d79a202463a"
         },
         {
-          "questId": "67c9877aff0329206209cb67",
-          "finalCutsceneId": "Final_trkv_evac_4"
+          "finalCutsceneId": "Final_trkv_evac_4",
+          "questId": "67c9877aff0329206209cb67"
         }
       ],
       "LagTimeCompensation": 2,
+      "MinPlayersToEvac": 3,
+      "SeatsRandom": {
+        "x": 0,
+        "y": 2
+      },
       "TimeOutTimer": 600,
+      "WaitingRoomTime": 45,
       "WeatherConfig": {
         "AtmospherePressure": 760,
         "Cloudness": -0.2,
@@ -10113,14 +10114,25 @@
     },
     "KolotunSettings": {
       "active": false,
-      "enableDamage": false,
-      "initialFrozenDelaySec": 60,
       "applyFrozenEverySec": 5,
-      "fireDistanceToHeat": 3,
-      "drunkImmunitySec": 30,
+      "buffStage1": "Buffs_Frozen1",
+      "buffStage2": "Buffs_Frozen2",
+      "damageBodyParts": [
+        "Head",
+        "LeftArm",
+        "RightArm",
+        "LeftLeg",
+        "RightLeg"
+      ],
       "damageIntervalSec": 40,
-      "damagePerTickMin": 1,
       "damagePerTickMax": 2,
+      "damagePerTickMin": 1,
+      "drunkImmunitySec": 30,
+      "enableDamage": false,
+      "eventStage": 1,
+      "fireDistanceToHeat": 3,
+      "initialFrozenDelaySec": 60,
+      "minHealthAfterDamage": 1,
       "protectiveClothes": [
         "5a43943586f77416ad2f06e2",
         "5a43957686f7742a2c2f11b0",
@@ -10138,17 +10150,6 @@
         "59e7708286f7742cbd762753",
         "69412e1d0045b2176002e4eb"
       ],
-      "eventStage": 1,
-      "damageBodyParts": [
-        "Head",
-        "LeftArm",
-        "RightArm",
-        "LeftLeg",
-        "RightLeg"
-      ],
-      "minHealthAfterDamage": 1,
-      "buffStage1": "Buffs_Frozen1",
-      "buffStage2": "Buffs_Frozen2",
       "soundTicksPerPlay": 2
     },
     "LegsOverdamage": 1,
@@ -13145,7 +13146,7 @@
       "ScavPriceMod": 0.8,
       "TransitRequirementsReferences": {
         "Terminal": {
-          "CanPassParties": false,
+          "CanPassParties": true,
           "CanPassPartiesTip": "Transit/PartiesBlockedTip",
           "ConditionalTipKey": "Transit/NeedBIfHasA",
           "ConfirmWindowTipKey": "Transit/ConfirmQuestion",
