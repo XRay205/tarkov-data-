@@ -1,4 +1,4 @@
 local
 readable
 .local/
-.cache
+.cache__pycache__/
